@@ -11654,3 +11654,1474 @@ msgstr[2] "Cargar los siguientes resultados {num_items}"
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "Lo sentimos, no se encuentran resultados"
+
+msgid "Preview"
+msgstr "Previsualizar"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Unit Location"
+msgstr "Ubicación de la unidad"
+
+msgid "Location ID"
+msgstr "ID de la ubicación"
+
+msgid "To create a link to this unit from an HTML component in this course, enter /jump_to_id/{ } as the URL value."
+msgstr "Para crear un enlace a esta unidad desde un componente HTML en este curso, ingrese /jump_to_id/{ } como valor de la URL."
+
+msgid "Looking for help with ?"
+msgstr "¿Buscas ayuda con ?"
+
+msgid "Library Content"
+msgstr "Contenido de la biblioteca"
+
+msgid "Problem Bank"
+msgstr "Banco de problemas"
+
+msgid "Open Response"
+msgstr "Respuesta abierta"
+
+msgid "Problem"
+msgstr "Problema"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Drag and Drop"
+msgstr "Arrastrar y Soltar"
+
+msgid "A library has not yet been selected."
+msgstr "Aún no se ha seleccionado una biblioteca."
+
+msgid "Select a Library."
+msgstr "Seleccionar una biblioteca."
+
+msgid "Answers are displayed within the problem"
+msgstr "Las respuestas se muestran dentro del problema."
+
+msgid "Manage Access"
+msgstr "Administrar acceso"
+
+msgid "Move"
+msgstr "Mover"
+
+msgid "Manage Tags"
+msgstr "Administrar etiquetas"
+
+msgid "Copy to Clipboard"
+msgstr "Copiar al portapapeles"
+
+msgid "Duplicate"
+msgstr "Duplicar"
+
+msgid "Select problem type"
+msgstr "Seleccionar tipo de problema"
+
+msgid "Single select"
+msgstr "Selección única"
+
+msgid "Multi-select"
+msgstr "Selección múltiple"
+
+msgid "Dropdown"
+msgstr "Menú desplegable"
+
+msgid "Numerical input"
+msgstr "Entrada numérica"
+
+msgid "Text input"
+msgstr "Entrada de texto"
+
+msgid "Advanced problem types"
+msgstr "Tipos de problemas avanzados"
+
+msgid "Learners must select the correct answer from a list of possible options."
+msgstr "Los estudiantes deben seleccionar la respuesta correcta de una lista de opciones posibles."
+
+msgid "Learners must select all correct answers from a list of possible options."
+msgstr "Los estudiantes deben seleccionar todas las respuestas correctas de una lista de opciones posibles."
+
+msgid "Specify one or more correct numeric answers, submitted in a response field."
+msgstr "Especificar una o más respuestas numéricas correctas, enviadas en un campo de respuesta."
+
+msgid "Specify one or more correct text answers, including numbers and special characters, submitted in a response field."
+msgstr "Especificar una o más respuestas de texto correctas, incluyendo números y caracteres especiales, enviadas en un campo de respuesta."
+
+msgid "Blank problem"
+msgstr "Problema en blanco"
+
+msgid "Advanced problems"
+msgstr "Problemas avanzados"
+
+msgid "Circuit schematic builder"
+msgstr "Constructor de esquemas de circuitos"
+
+msgid "Custom JavaScript display and grading"
+msgstr "Visualización y evaluación personalizada en JavaScript"
+
+msgid "Custom Python-evaluated input"
+msgstr "Entrada evaluada personalizada en Python"
+
+msgid "Image mapped input"
+msgstr "Entrada mapeada de imagen"
+
+msgid "Math expression input"
+msgstr "Entrada de expresión matemática"
+
+msgid "Learn more about advanced problem types"
+msgstr "Aprender más sobre los tipos de problemas avanzados"
+
+msgid "Not supported"
+msgstr "No soportado"
+
+msgid "Provisional"
+msgstr "Provisional"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Enter the number of components to display to each student. Set it to -1 to display all components."
+msgstr "Introduzca la cantidad de componentes que se mostrarán a cada estudiante. Establézcalo en -1 para mostrar todos los componentes."
+
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+msgid "Library"
+msgstr "Biblioteca"
+
+msgid "Select the library from which you want to draw content."
+msgstr "Seleccione la biblioteca de la cual desea extraer el contenido."
+
+msgid "No Library Selected"
+msgstr "No se ha seleccionado ninguna biblioteca."
+
+msgid "Problem Type"
+msgstr "Tipo de problema"
+
+msgid "Any Type"
+msgstr "Cualquier tipo"
+
+msgid "Choose a problem type to fetch from the library. If 'Any Type' is selected no filtering is applied."
+msgstr "Elija un tipo de problema para obtener de la biblioteca. Si se selecciona 'Cualquier tipo', no se aplica ningún filtro."
+
+msgid "Show Reset Button"
+msgstr "Mostrar botón de reinicio"
+
+msgid "Determines whether a 'Reset Problems' button is shown, so users may reset their answers and reshuffle selected items."
+msgstr "Determina si se muestra un botón de 'Reiniciar problemas', para que los usuarios puedan restablecer sus respuestas y reorganizar los elementos seleccionados."
+
+msgid "Select which Library would you like to reference components from."
+msgstr "Seleccione de qué biblioteca desea hacer referencia los componentes."
+
+msgid "Search for a library"
+msgstr "Buscar una biblioteca"
+
+msgid "No libraries found"
+msgstr "No se encontraron bibliotecas"
+
+msgid "You don't have any libraries created yet, or you don't have access to any libraries. To create a new library, go to Studio Home or contact your system administrator."
+msgstr "Aún no tienes bibliotecas creadas o no tienes acceso a ninguna. Para crear una nueva biblioteca, ve a la página principal de Studio o contacta con tu administrador del sistema."
+
+msgid "There are no libraries with the current filters."
+msgstr "No hay bibliotecas con los filtros actuales."
+
+msgid "This block contains multiple components."
+msgstr "Este bloque contiene múltiples componentes."
+
+msgid "You have not selected any components yet."
+msgstr "Aún no has seleccionado ningún componente."
+
+msgid "Add components"
+msgstr "Agregar componentes"
+
+msgid "from a content library to this problem bank."
+msgstr "de una biblioteca de contenido a este banco de problemas."
+
+msgid "VIEW"
+msgstr "VER"
+
+msgid "Announcement"
+msgstr "Anuncio"
+
+msgid "Anonymous User ID"
+msgstr "ID de usuario anónimo"
+
+msgid "IFrame Tool"
+msgstr "Herramienta IFrame"
+
+msgid "Raw HTML"
+msgstr "HTML sin procesar"
+
+msgid "Zooming Image Tool"
+msgstr "Herramienta de imagen con zoom"
+
+msgid "No transcripts added"
+msgstr "No se han agregado transcripciones"
+
+msgid "Other video"
+msgstr "Otro video"
+
+msgid "Video source"
+msgstr "Fuente del video"
+
+msgid "Transcripts"
+msgstr "Transcripciones"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Duration"
+msgstr "Duración"
+
+msgid "Set a specific section of the video to play."
+msgstr "Establezca una sección específica del video para reproducir."
+
+msgid "Enter time as HH:MM:SS"
+msgstr "Ingrese la hora como HH:MM:SS"
+
+msgid "Start Time"
+msgstr "Hora de inicio"
+
+msgid "Stop Time"
+msgstr "Hora de fin"
+
+msgid "Handout"
+msgstr "Folleto"
+
+msgid "Add a handout to accompany this video. Learners can download this file by clicking 'Download Handout' below the video."
+msgstr "Agregue un folleto para acompañar este video. Los estudiantes pueden descargar este archivo haciendo clic en 'Descargar folleto' debajo del video."
+
+msgid "Upload Handout"
+msgstr "Subir folleto"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "This license is set specifically for this video"
+msgstr "Esta licencia está configurada específicamente para este video."
+
+msgid "Add a license for this video"
+msgstr "Agregar una licencia para este video"
+
+msgid "Replace video"
+msgstr "Reemplazar video"
+
+msgid "Exit the editor?"
+msgstr "¿Salir del editor?"
+
+msgid "Are you sure you want to exit the editor? Any unsaved changes will be lost."
+msgstr "¿Está seguro de que desea salir del editor? Cualquier cambio no guardado se perderá."
+
+msgid "If you were assigned a video ID by edX, enter the ID here."
+msgstr "Si se le asignó un ID de video por edX, ingréselo aquí."
+
+msgid "The URL for your video. This can be a YouTube URL, or a link to an .mp4, .ogg, or .webm video file hosted elsewhere on the internet."
+msgstr "La URL de tu video. Esto puede ser una URL de YouTube, o un enlace a un archivo de video .mp4, .ogg o .webm alojado en otro lugar en internet."
+
+msgid "Fallback videos"
+msgstr "Videos alternativos"
+
+msgid "To be sure all learners can access the video, edX recommends providing additional videos in both .mp4 and .webm formats. The first listed video compatible with the learner's device will play."
+msgstr "Para asegurar que todos los estudiantes puedan acceder al video, edX recomienda proporcionar videos adicionales en formatos .mp4 y .webm. El primer video listado compatible con el dispositivo del estudiante se reproducirá."
+
+msgid "Allow video downloads"
+msgstr "Permitir descargas de video"
+
+msgid "Video URL"
+msgstr "URL del video"
+
+msgid "Add video transcripts (.srt files only) for improved accessibility."
+msgstr "Agrega transcripciones de video (solo archivos .srt) para mejorar la accesibilidad."
+
+msgid "Allow transcript downloads"
+msgstr "Permitir descargas de transcripciones"
+
+msgid "Show transcript in the video player by default"
+msgstr "Mostrar transcripción en el reproductor de video por defecto"
+
+msgid "Delete this transcript?"
+msgstr "¿Eliminar esta transcripción?"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Are you sure you want to delete this transcript?"
+msgstr "¿Está seguro de que desea eliminar esta transcripción?"
+
+msgid "Access is not restricted"
+msgstr "El acceso no está restringido"
+
+msgid "Access to this component is not restricted, but visibility might be affected by inherited settings."
+msgstr "El acceso a este componente no está restringido, pero la visibilidad podría verse afectada por configuraciones heredadas."
+
+msgid "You can restrict access to this component to learners in specific enrollment tracks or content groups."
+msgstr "Puede restringir el acceso a este componente a los estudiantes en cursos de inscripción o grupos de contenido específicos."
+
+msgid "Manage content groups"
+msgstr "Administrar grupos de contenido."
+
+msgid "Edit tags"
+msgstr "Editar etiquetas"
+
+msgid "To use tags, please"
+msgstr "Para utilizar etiquetas, por favor"
+
+msgid "or contact your administrator."
+msgstr "o contacte a su administrador."
+
+msgid "Content"
+msgstr "Contenido"
+
+msgid "Outline"
+msgstr "Esquema"
+
+msgid "Updates"
+msgstr "Actualizaciones"
+
+msgid "Pages & Resources"
+msgstr "Páginas y recursos"
+
+msgid "Files"
+msgstr "Archivos"
+
+msgid "You have not added any updates to this course yet."
+msgstr "Aún no has añadido ninguna actualización a este curso."
+
+msgid "Add first update"
+msgstr "Agregar la primera actualización."
+
+msgid "Schedule & Details"
+msgstr "Horario y detalles"
+
+msgid "Grading"
+msgstr "Calificando"
+
+msgid "Course Team"
+msgstr "Equipo del curso"
+
+msgid "Group Configurations"
+msgstr "Configuraciones de grupo"
+
+msgid "Certificates"
+msgstr "Certificados"
+
+msgid "Tools"
+msgstr "Herramientas"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Export Course"
+msgstr "Exportar curso"
+
+msgid "Export Tags"
+msgstr "Exportar etiquetas"
+
+msgid "Checklists"
+msgstr "Listas de verificación"
+
+msgid "Start date"
+msgstr "Fecha de inicio"
+
+msgid "Pacing type"
+msgstr "Tipo de ritmo"
+
+msgid "Course highlight emails"
+msgstr "Correos electrónicos destacados del curso"
+
+msgid "Course tags"
+msgstr "Etiquetas del curso"
+
+msgid "Self-paced"
+msgstr "A su propio ritmo"
+
+msgid "Enable now"
+msgstr "Habilitar ahora"
+
+msgid "completed"
+msgstr "Completado"
+
+msgid "Learn more"
+msgstr "Conocer más"
+
+msgid "Creating your course organization"
+msgstr "Creando la organización de tu curso"
+
+msgid "You add sections, subsections, and units directly in the outline."
+msgstr "Agrega secciones, subsecciones y unidades directamente en el esquema."
+
+msgid "Create a section, then add subsections and units. Open a unit to add course components."
+msgstr "Crea una sección y añade subsecciones y unidades. Abre una unidad para añadir componentes del curso."
+
+msgid "Reorganizing your course"
+msgstr "Reorganizando tu curso."
+
+msgid "Drag sections, subsections, and units to new locations in the outline."
+msgstr "Arrastre secciones, subsecciones y unidades a nuevas ubicaciones en el esquema."
+
+msgid "Learn more about the course outline"
+msgstr "Obtenga más información sobre el esquema del curso."
+
+msgid "Setting release dates and grading policies"
+msgstr "Establecer fechas de lanzamiento y políticas de calificación."
+
+msgid "Select the Configure icon for a section or subsection to set its release date. When you configure a subsection, you can also set the grading policy and due date."
+msgstr "Seleccione el icono 'Configurar' de una sección o subsección para establecer su fecha de publicación. Al configurar una subsección, también puede establecer la política de calificación y la fecha límite."
+
+msgid "Learn more about grading policy settings"
+msgstr "Obtenga más información sobre la configuración de la política de calificación."
+
+msgid "Changing the content learners see"
+msgstr "Cambiar el contenido que ven los estudiantes."
+
+msgid "To publish draft content, select the Publish icon for a section, subsection, or unit."
+msgstr "Si desea publicar el contenido en borrador, seleccione el ícono Publicar para una sección, subsección o unidad."
+
+msgid "To make a section, subsection, or unit unavailable to learners, select the Configure icon for that level, then select the appropriate Hide option. Grades for hidden sections, subsections, and units are not included in grade calculations."
+msgstr "Para que una sección, subsección o unidad no esté disponible para los estudiantes, seleccione el icono 'Configurar' para ese nivel y a continuación, la opción 'Ocultar'. Las calificaciones de las secciones, subsecciones y unidades ocultas no se incluyen en el cálculo de las calificaciones."
+
+msgid "To hide the content of a subsection from learners after the subsection due date has passed, select the Configure icon for a subsection, then select Hide content after due date. Grades for the subsection remain included in grade calculations."
+msgstr "Para ocultar el contenido de una subsección a los estudiantes una vez vencida su fecha límite, seleccione el icono 'Configurar' de la subsección y a continuación, seleccione 'Ocultar contenido después de la fecha límite'. Las calificaciones de la subsección se incluyen en el cálculo de las calificaciones."
+
+msgid "Learn more about content visibility settings"
+msgstr "Obtenga más información sobre la configuración de visibilidad del contenido."
+
+msgid "New section"
+msgstr "Nueva sección"
+
+msgid "Reindex"
+msgstr "Reindexar"
+
+msgid "Collapse all"
+msgstr "Colapsar todo"
+
+msgid "View live"
+msgstr "Ver en vivo"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Configure"
+msgstr "Configurar"
+
+msgid "Move down"
+msgstr "Mover abajo"
+
+msgid "Basic"
+msgstr "Básico"
+
+msgid "Visibility"
+msgstr "Visibilidad"
+
+msgid "Section visibility"
+msgstr "Visibilidad de la sección"
+
+msgid "Hide from learners"
+msgstr "Ocultarse de los estudiantes"
+
+msgid "Grading"
+msgstr "Calificación"
+
+msgid "Grade as:"
+msgstr "Calificar como:"
+
+msgid "Not Graded"
+msgstr "Sin calificar"
+
+msgid "Basic Assessment Tools"
+msgstr "Herramientas básicas de evaluación"
+
+msgid "Intermediate Assessment Tools"
+msgstr "Herramientas de evaluación intermedia"
+
+msgid "Advanced Assessment Tools"
+msgstr "Herramientas de evaluación avanzada"
+
+msgid "Set as a special exam"
+msgstr "Establecer como examen especial"
+
+msgid "Timed"
+msgstr "Cronometrado"
+
+msgid "Use a timed exam to limit the time learners can spend on problems in this subsection. Learners must submit answers before the time expires. You can allow additional time for individual learners through the instructor Dashboard."
+msgstr "Utilice un examen cronometrado para limitar el tiempo que los alumnos pueden dedicar a los problemas de esta subsección. Deben entregar las respuestas antes de que se agote el tiempo. Puede asignar tiempo adicional a cada estudiante a través del panel del instructor."
+
+msgid "Time allotted (HH:MM):"
+msgstr "Tiempo asignado (HH:MM):"
+
+msgid "Select a time allotment for the exam. If it is over 24 hours, type in the amount of time. You can grant individual learners extra time to complete the exam through the Instructor Dashboard."
+msgstr "Seleccione un tiempo para el examen. Si dura más de 24 horas, indíquelo. Puede conceder tiempo adicional a cada estudiante para completar el examen a través del Panel del Instructor."
+
+msgid "Use as a Prerequisite"
+msgstr "Usar como prerrequisito."
+
+msgid "Make this subsection available as a prerequisite to other content"
+msgstr "Hacer que esta subsección esté disponible como requisito previo para otro contenido."
+
+msgid "\"edX and Open edX, and the edX and Open edX logos are registered trademarks of edX Inc.\""
+msgstr "edX y Open edX, y sus logotipos son marcas registradas de edX Inc."
+
+msgid "LMS"
+msgstr "LMS"
+
+msgid "Course updates"
+msgstr "Actualizaciones del curso"
+
+msgid "Use course updates to notify students of important dates or exams, highlight particular discussions in the forums, announce schedule changes, and respond to student questions."
+msgstr "Utilice las actualizaciones del curso para notificar a los estudiantes sobre fechas importantes o exámenes, resaltar discusiones particulares en los foros, anunciar cambios de horario y responder a las preguntas de los estudiantes."
+
+msgid "Course handouts"
+msgstr "Folletos del curso"
+
+msgid "Edit update"
+msgstr "Editar actualización"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Post"
+msgstr "Publicación"
+
+msgid "Progress"
+msgstr "Progreso"
+
+msgid "Keep learners engaged and on track throughout the course."
+msgstr "Mantenga a los estudiantes interesados ​​y enfocados durante todo el curso."
+
+msgid "Configure progress"
+msgstr "Configurar el proceso"
+
+msgid "As students work through graded assignments, scores will appear under the progress tab. The progress tab contains a chart of all graded assignments in the course, with a list of all assignments and scores below."
+msgstr "A medida que los estudiantes completen las tareas calificadas, las puntuaciones aparecerán en la pestaña de progreso. Esta pestaña contiene un gráfico de todas las tareas calificadas del curso, con una lista de todas las tareas y sus puntuaciones debajo."
+
+msgid "Enabled"
+msgstr "Activada"
+
+msgid "Learn more about progress"
+msgstr "Más información sobre el progreso"
+
+msgid "Enable progress graph"
+msgstr "Habilitar gráfico del progreso"
+
+msgid "If enabled, students can view the progress graph"
+msgstr "Si está habilitada, los estudiantes pueden ver el gráfico del progreso"
+
+msgid "Discussion"
+msgstr "Debate"
+
+msgid "Encourage participation and engagement in your course with discussions."
+msgstr "Fomente la participación y el compromiso en su curso con debates."
+
+msgid "Select a discussion tool for this course"
+msgstr "Seleccione una herramienta de debate para este curso"
+
+msgid "Full support"
+msgstr "Soporte completo"
+
+msgid "edX (new)"
+msgstr "edX (nuevo)"
+
+msgid "Enable participation in discussion topics alongside course content."
+msgstr "Permitir la participación en temas de debate junto con el contenido del curso."
+
+msgid "Ed Discussion"
+msgstr "Ed Debate"
+
+msgid "Basic support"
+msgstr "Soporte básico"
+
+msgid "Ed Discussion helps scale class communication in a beautiful and intuitive interface. Questions reach and benefit the whole class. Less emails, more time saved."
+msgstr "Ed Debate facilita la comunicación en clase con una interfaz atractiva e intuitiva. Las preguntas llegan y benefician a toda la clase. Menos correos electrónicos, más tiempo ahorrado."
+
+msgid "InScribe"
+msgstr "InScribe"
+
+msgid "InScribe leverages the power of community + artificial intelligence to connect individuals to the answers, resources, and people they need to succeed."
+msgstr "InScribe aprovecha el poder de la comunidad + inteligencia artificial para conectar a las personas con las respuestas, los recursos y las personas que necesitan para tener éxito."
+
+msgid "Piazza"
+msgstr "Piazza"
+
+msgid "Piazza is designed to connect students, TAs, and professors so every student can get the help they need when they need it."
+msgstr "Piazza está diseñada para conectar estudiantes, asistentes de cátedra y profesores para que cada estudiante pueda obtener la ayuda que necesita cuando la necesita."
+
+msgid "Yellowdig"
+msgstr "Yellowdig"
+
+msgid "Yellowdig offers educators a gameful learning digital solution to improve student engagement by building learning communities for any course modality."
+msgstr "Yellowdig ofrece a los educadores una solución digital de aprendizaje lúdica para mejorar la participación de los estudiantes mediante la creación de comunidades de aprendizaje para cualquier modalidad de curso."
+
+msgid "Supported features"
+msgstr "Funciones compatibles"
+
+msgid "Primary discussion app experience"
+msgstr "Experiencia principal en la aplicación de debates"
+
+msgid "Basic configuration"
+msgstr "Configuración básica"
+
+msgid "Partial support"
+msgstr "Soporte parcial"
+
+msgid "Question & discussion support"
+msgstr "Soporte a preguntas y debates"
+
+msgid "Community TA support"
+msgstr "Soporte de TA de la comunidad"
+
+msgid "Report content to moderators"
+msgstr "Reportar este contenido a los moderadores"
+
+msgid "LTI advanced sharing"
+msgstr "Uso compartido avanzado de LTI"
+
+msgid "Automatic learner enrollment"
+msgstr "Inscripción automática de estudiantes"
+
+msgid "Anonymous posting"
+msgstr "Publicación anónima"
+
+msgid "Internationalization support"
+msgstr "Soporte a la internacionalización"
+
+msgid "Email notifications"
+msgstr "Notificaciones por correo electrónico"
+
+msgid "WCAG 2.0 support"
+msgstr "Compatibilidad con WCAG 2.0"
+
+msgid "Blackout discussion dates"
+msgstr "Fechas bloqueadas para discusión"
+
+msgid "Full support"
+msgstr "Soporte completo"
+
+msgid "Course cohort support"
+msgstr "Apoyo a la cohorte del curso"
+
+msgid "Research data events"
+msgstr "Eventos de datos de investigación"
+
+msgid "Commonly requested"
+msgstr "Solicitado comúnmente"
+
+msgid "In-platform notifications"
+msgstr "Notificaciones en la plataforma"
+
+msgid "Discussion content prompts"
+msgstr "Indicaciones sobre el contenido de la discusión"
+
+msgid "Graded discussions"
+msgstr "Discusiones graduadas"
+
+msgid "Direct messages from instructors"
+msgstr "Mensajes directos de los instructores"
+
+msgid "User mentions"
+msgstr "Menciones de usuarios"
+
+msgid "Provider selection"
+msgstr "Selección de proveedor"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Hide discussion tab"
+msgstr "Ocultar pestaña de discusión"
+
+msgid "Hide the discussion tab?"
+msgstr "¿Ocultar la pestaña de discusión?"
+
+msgid "The discussion tab will no longer be visible to learners in the LMS. Additionally, posting to the discussion forums will be disabled. Are you sure you want to proceed?"
+msgstr "La pestaña de discusión ya no será visible para los estudiantes en el LMS. Además, se deshabilitará la publicación en los foros de discusión. ¿Seguro que desea continuar?"
+
+msgid "Configure discussions"
+msgstr "Configurar discusiones"
+
+msgid "To enable Piazza for your course, please contact their support team at to learn more about pricing and usage."
+msgstr "Para habilitar Piazza para su curso, comuníquese con su equipo de soporte para obtener más información sobre precios y uso."
+
+msgid "To fully configure Piazza will also require sharing usernames and emails for learners and course team. Please contact your edX project coordinator to enable PII sharing for this course."
+msgstr "Para configurar Piazza por completo, también será necesario compartir los nombres de usuario y correos electrónicos de los estudiantes y el equipo del curso. Contacta con tu coordinador de proyecto para habilitar el uso compartido de información personal identificable (PII) para este curso."
+
+msgid "External help and documentation"
+msgstr "Ayuda externa y documentación."
+
+msgid "Learn more about Piazza"
+msgstr "Más información sobre Piazza"
+
+msgid "Configuration documentation"
+msgstr "Documentación y configuración"
+
+msgid "General documentation"
+msgstr "Documentación general"
+
+msgid "Accessibility documentation"
+msgstr "Documentación de accesibilidad"
+
+msgid "Contact:"
+msgstr "Contacto:"
+
+msgid "Visibility of in-context discussions"
+msgstr "Visibilidad de los debates en contexto"
+
+msgid "Enable discussions on units in graded subsections?"
+msgstr "¿Permitir debates sobre unidades en subsecciones calificadas?"
+
+msgid "Enabling this toggle will automatically enable discussion on all units in graded subsections, that are not timed exams."
+msgstr "Al habilitar esta opción se habilitará automáticamente los debates sobre todas las unidades en subsecciones calificadas que no sean exámenes cronometrados."
+
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgid "Allow learners to engage with discussion on all graded unit pages except timed exams."
+msgstr "Permitir que los estudiantes participen en el debate en todas las páginas de unidades calificadas, excepto en los exámenes cronometrados."
+
+msgid "Group in context discussion at the subsection level"
+msgstr "Debate grupal en contexto a nivel de subsección"
+
+msgid "Learners will be able to view any post in the sub-section no matter which unit page they are viewing. While this is not recommended, if your course has short learning sequences or low enrollment grouping may increase engagement."
+msgstr "Los estudiantes podrán ver cualquier publicación en la subsección, independientemente de la página de la unidad que estén viendo. Si bien esto no es recomendable, si su curso tiene secuencias de aprendizaje cortas o un grupo con poca matrícula, esto puede aumentar la participación."
+
+msgid "Anonymous posting"
+msgstr "Publicación anónima"
+
+msgid "Allow anonymous discussion posts to peers"
+msgstr "Permitir publicaciones anónimas de debate a compañeros."
+
+msgid "Learners will be able to post anonymously to other peers but all posts will be visible to course staff."
+msgstr "Los estudiantes podrán publicar de forma anónima para otros compañeros, pero todas las publicaciones serán visibles para el personal del curso."
+
+msgid "Discussion topics"
+msgstr "Temas de debate"
+
+msgid "General discussion topics"
+msgstr "Temas generales de debate"
+
+msgid "Discussions can include general topics not contained to the course structure. All courses have a general topic by default."
+msgstr "Los debates pueden incluir temas generales que no están incluidos en la estructura del curso. Todos los cursos tienen un tema general por defecto."
+
+msgid "General"
+msgstr "General"
+
+msgid "Rename general topic"
+msgstr "Renombrar tema general"
+
+msgid "This is the default discussion topic for your course."
+msgstr "Este es el tema de debate predeterminado para su curso."
+
+msgid "Choose a unique name for your topic"
+msgstr "Elija un nombre único para su tema"
+
+msgid "Configure topic"
+msgstr "Configurar tema"
+
+msgid "Off Topic"
+msgstr "Apagar tema"
+
+msgid "Topic name is a required field"
+msgstr "El nombre del tema es un campo obligatorio"
+
+msgid "Topic name"
+msgstr "Nombre del tema"
+
+msgid "Incomplete"
+msgstr "Incompleto"
+
+msgid "Delete this topic?"
+msgstr "¿Eliminar este tema?"
+
+msgid "edX recommends that you do not delete discussion topics once your course is running."
+msgstr "El sistema recomienda que no elimines los temas de discusión una vez que tu curso esté en marcha."
+
+msgid "Cohorts"
+msgstr "Cohortes"
+
+msgid "To adjust these settings, enable cohorts on the instructor dashboard"
+msgstr "Para ajustar estas configuraciones, habilite las cohortes en el panel del instructor."
+
+msgid "Divide discussions by cohorts"
+msgstr "Dividir las discusiones por cohortes."
+
+msgid "Learners will only be able to view and respond to discussions posted by members of their cohort."
+msgstr "Los estudiantes solo podrán ver y responder a las discusiones publicadas por miembros de su cohorte."
+
+msgid "Notifications"
+msgstr "Notificaciones"
+
+msgid "Email notifications for reported content"
+msgstr "Notificaciones por correo electrónico sobre contenido denunciado."
+
+msgid "Discussion Admins, Moderators, Community TAs and Group Community TAs (only for their own cohort) will receive an email notification when content is reported."
+msgstr "Los administradores de discusión, moderadores, asistentes de enseñanza de la comunidad y asistentes de enseñanza de la comunidad grupal (solo para su propia cohorte) recibirán una notificación por correo electrónico cuando se informe sobre algún contenido."
+
+msgid "Discussion restrictions"
+msgstr "Restricciones de discusión"
+
+msgid "Off"
+msgstr "Apagar"
+
+msgid "on"
+msgstr "Encender"
+
+msgid "Scheduled"
+msgstr "Programación"
+
+msgid "Enable restricted dates?"
+msgstr "¿Habilitar fechas restringidas?"
+
+msgid "Learners will not be able to post in discussions."
+msgstr "Los estudiantes no podrán publicar en las discusiones."
+
+msgid "If enabled, learners will be able to post in discussions"
+msgstr "Si está habilitado, los estudiantes podrán publicar en discusiones."
+
+msgid "If enabled, learners will not be able to post in discussions"
+msgstr "Si está habilitado, los estudiantes no podrán publicar en discusiones."
+
+msgid "Add restricted dates"
+msgstr "Agregar fechas restringidas"
+
+msgid "Configure restricted date range"
+msgstr "Configurar rango de fechas restringido"
+
+msgid "Start time (optional)"
+msgstr "Hora de inicio (opcional)"
+
+msgid "End time (optional)"
+msgstr "Hora de finalización (opcional)"
+
+msgid "Delete restricted dates?"
+msgstr "¿Eliminar fechas restringidas?"
+
+msgid "If deleted, learners will be able to post in discussions during these dates."
+msgstr "Si se elimina, los estudiantes podrán publicar en discusiones durante estas fechas."
+
+msgid "To enable Ed Discussion for your course, please contact their support team at to learn more about pricing and usage."
+msgstr "Para habilitar Ed Debate para su curso, comuníquese con su equipo de soporte en para obtener más información sobre precios y uso."
+
+msgid "To fully configure Ed Discussion will also require sharing usernames and emails for learners and course team. Please contact your edX project coordinator to enable PII sharing for this course."
+msgstr "Para configurar completamente Ed Debate, también será necesario compartir los nombres de usuario y correos electrónicos de los estudiantes y el equipo del curso. Contacta con el coordinador de tu proyecto para habilitar el uso compartido de información personal identificable (PII) para este curso."
+
+msgid "To enable InScribe for your course, please contact their support team at to learn more about pricing and usage."
+msgstr "Para habilitar InScribe para su curso, comuníquese con su equipo de soporte para obtener más información sobre precios y uso."
+
+msgid "To fully configure InScribe will also require sharing usernames and emails for learners and course team. Please contact your edX project coordinator to enable PII sharing for this course."
+msgstr "Para configurar completamente InScribe, también será necesario compartir los nombres de usuario y correos electrónicos de los estudiantes y el equipo del curso. Contacte con el coordinador de su proyecto de para habilitar el uso compartido de información personal identificable (PII) para este curso."
+
+msgid "To enable Yellowdig for your course, please contact their support team at to learn more about pricing and usage."
+msgstr "Para habilitar Yellowdig para su curso, comuníquese con su equipo de soporte para obtener más información sobre precios y uso."
+
+msgid "To fully configure Yellowdig will also require sharing usernames and emails for learners and course team. Please contact your edX project coordinator to enable PII sharing for this course."
+msgstr "Para configurar completamente Yellowdig, también será necesario compartir los nombres de usuario y correos electrónicos de los estudiantes y el equipo del curso. Contacta con tu coordinador de proyecto para habilitar el uso compartido de información personal identificable (PII) para este curso."
+
+msgid "Learn more about Yellowdig"
+msgstr "Obtenga más información sobre Yellowdig"
+
+msgid "Configure wiki"
+msgstr "Configurar wiki"
+
+msgid "The course wiki can be set up based on the needs of your course. Common uses might include sharing answers to course FAQs, sharing editable course information, or providing access to learner-created resources."
+msgstr "La wiki del curso se puede configurar según las necesidades del mismo. Entre sus usos más comunes se incluyen compartir respuestas a preguntas frecuentes, compartir información editable o acceder a recursos creados por los estudiantes."
+
+msgid "Learn more about the wiki"
+msgstr "Obtenga más información sobre la wiki"
+
+msgid "Enable public wiki access"
+msgstr "Habilitar el acceso público a la wiki"
+
+msgid "If enabled, any registered user can view the course wiki even if they are not enrolled in the course"
+msgstr "Si está habilitado, cualquier usuario registrado puede ver el wiki del curso incluso si no está inscrito en el curso."
+
+msgid "Calculator"
+msgstr "Calculadora"
+
+msgid "Provide an in-course calculator for simple and complex calculations."
+msgstr "Proporcionar una calculadora dentro del curso para cálculos simples y complejos."
+
+msgid "Configure calculator"
+msgstr "Configurar calculadora"
+
+msgid "The calculator supports numbers, operators, constants, functions, and other mathematical concepts. When enabled, an icon to access the calculator appears on all pages in the body of your course."
+msgstr "La calculadora admite números, operadores, constantes, funciones y otros conceptos matemáticos. Al activarla, aparece un icono para acceder a ella en todas las páginas del curso."
+
+msgid "Learn more about the calculator"
+msgstr "Obtenga más información sobre la calculadora"
+
+msgid "Live"
+msgstr "En vivo"
+
+msgid "Enable in-platform video conferencing by configuring live"
+msgstr "Habilite las videoconferencias en la plataforma configurando la transmisión en vivo"
+
+msgid "Configure Live"
+msgstr "Configurar en vivo"
+
+msgid "Schedule meetings and conduct live course sessions with learners."
+msgstr "Programe reuniones y realice sesiones de cursos en vivo con los estudiantes."
+
+msgid "Learn more about live"
+msgstr "Más información sobre en vivo"
+
+msgid "Select a video conferencing tool"
+msgstr "Seleccione la herramienta de video conferencia"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "BigBlueButton"
+msgstr "BigBlueButton"
+
+msgid "This configuration will require sharing usernames and emails of learners and the course team with Zoom. To access the LTI configuration for Zoom, please request your edX project coordinator to get PII sharing enabled for this course."
+msgstr "Esta configuración requerirá compartir los nombres de usuario y correos electrónicos de los estudiantes y del equipo del curso con Zoom. Para acceder a la configuración de LTI para Zoom, solicite a su coordinador de proyecto que habilite el uso compartido de PII para este curso."
+
+msgid "Textbooks"
+msgstr "Libros de texto"
+
+msgid "Create and manage a library of course readings, textbooks, and chapters."
+msgstr "Crear y administrar una biblioteca de lecturas de cursos, libros de texto y capítulos."
+
+msgid "new unit"
+msgstr "Nueva unidad"
+
+msgid "You haven't added any textbooks to this course yet."
+msgstr "Aún no has añadido ningún libro de texto a este curso."
+
+msgid "Add your first textbook"
+msgstr "Añade tu primer libro de texto"
+
+msgid "Why should I break my textbook into chapters?"
+msgstr "¿Por qué debería dividir mi libro de texto en capítulos?"
+
+msgid "Breaking your textbook into multiple chapters reduces loading times for students, especially those with slow Internet connections. Breaking up textbooks into chapters can also help students more easily find topic-based information."
+msgstr "Dividir el libro de texto en varios capítulos reduce los tiempos de carga para los estudiantes, especialmente para aquellos con conexiones lentas a internet. Dividir los libros de texto en capítulos también facilita la búsqueda de información temática."
+
+msgid "What if my book isn't divided into chapters?"
+msgstr "¿Qué pasa si mi libro no está dividido en capítulos?"
+
+msgid "If your textbook doesn't have individual chapters, you can upload the entire text as a single chapter and enter a name of your choice in the Chapter Name field."
+msgstr "Si su libro de texto no tiene capítulos individuales, puede cargar el texto completo como un solo capítulo e ingresar un nombre de su elección en el campo Nombre del capítulo."
+
+msgid "New textbook"
+msgstr "Nuevo libro de texto"
+
+msgid "Textbook name"
+msgstr "Nombre del libro de texto"
+
+msgid "Textbook name is required"
+msgstr "El nombre del libro de texto es obligatorio"
+
+msgid "Introduction to Cookie Baking"
+msgstr "Introducción a Cookie Baking"
+
+msgid "Chapter name"
+msgstr "Nombre del capítulo"
+
+msgid "Chapter 1"
+msgstr "Capítulo 1"
+
+msgid "provide the title/name of the textbook as you would like your students to see it"
+msgstr "proporcione el título/nombre del libro de texto tal como le gustaría que sus estudiantes lo vean"
+
+msgid "Chapter asset"
+msgstr "Recurso Capítulo"
+
+msgid "provide the title/name of the chapter that will be used in navigating"
+msgstr "proporcione el título/nombre del capítulo que se utilizará para navegar"
+
+msgid "upload a PDF file or provide the path to a Studio asset file"
+msgstr "Cargue un archivo PDF o proporcione la ruta a un recurso de Studio"
+
+msgid "Add a chapter"
+msgstr "Agregar un capítulo"
+
+msgid "Chapter asset is required"
+msgstr "Se requiere recurso del capítulo"
+
+msgid "Chapter name is required"
+msgstr "El nombre del capítulo es obligatorio"
+
+msgid "Custom pages"
+msgstr "Páginas personalizadas"
+
+msgid "Provide additional course content and resources with custom pages"
+msgstr "Proporcione contenido y recursos adicionales del curso con páginas personalizadas"
+
+msgid "Flexible Peer Grading for ORAs"
+msgstr "Calificación flexible entre pares para ORA"
+
+msgid "Course level settings for Flexible Peer Grading Open Response Assessments."
+msgstr "Configuración de nivel de curso para evaluaciones de respuesta abierta con calificación flexible entre pares."
+
+msgid "Configure Flexible Peer Grading"
+msgstr "Configurar la calificación flexible entre pares"
+
+msgid "Flex Peer Grading"
+msgstr "Calificación flexible entre pares"
+
+msgid "Turn on Flexible Peer Grading for all open response assessments in the course with peer grading."
+msgstr "Active la calificación flexible entre pares para todas las evaluaciones de respuesta abierta en el curso con calificación entre pares."
+
+msgid "Learn more about open response assessment settings"
+msgstr "Obtenga más información sobre las configuraciones de evaluación de respuesta abierta"
+
+msgid "Search file name"
+msgstr "Buscar nombre de archivo"
+
+msgid "File name"
+msgstr "Nombre del archivo"
+
+msgid "File size"
+msgstr "Tamaño del archivo"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "active"
+msgstr "Activo"
+
+msgid "Access"
+msgstr "Acceso"
+
+msgid "code"
+msgstr "código"
+
+msgid "image"
+msgstr "imagen"
+
+msgid "other"
+msgstr "documento"
+
+msgid "document"
+msgstr "Vista de lista"
+
+msgid "List view"
+msgstr "Vista de tarjeta"
+
+msgid "Card view"
+msgstr "Vista de tarjeta"
+
+msgid "An error occurred. Please try again later. (Playback ID:)"
+msgstr "Se produjo un error. Inténtalo de nuevo más tarde. (ID de reproducción:)"
+
+msgid "Pass"
+msgstr "Contraseña"
+
+msgid "Homework"
+msgstr "Tarea"
+
+msgid "Lab"
+msgstr "Laboratorio"
+
+msgid "Midterm Exam"
+msgstr "Examen intermedio"
+
+msgid "Final Exam"
+msgstr "Examen final"
+
+msgid "Final"
+msgstr "Final"
+
+msgid "Midterm"
+msgstr "Intermedio"
+
+msgid "HW"
+msgstr "HW"
+
+msgid "Content Groups"
+msgstr "Grupos de contenido"
+
+msgid "Enter the names of the advanced modules to use in your course."
+msgstr "Introduzca los nombres de los módulos avanzados que se utilizarán en su curso."
+
+msgid "Advanced module list"
+msgstr "Lista de módulos avanzados"
+
+msgid "Allow opting out of proctored exams"
+msgstr "Permitir la exclusión voluntaria de los exámenes supervisados."
+
+msgid "Enter true or false. If this value is true, learners can choose to take proctored exams without proctoring. If this value is false, all learners must take the exam with proctoring. This setting only applies if proctored exams are enabled for the course."
+msgstr "Introduzca verdadero o falso. Si este valor es verdadero, los estudiantes pueden optar por realizar los exámenes supervisados ​​sin supervisión. Si es falso, todos los estudiantes deben realizar el examen con supervisión. Esta configuración solo se aplica si los exámenes supervisados ​​están habilitados para el curso."
+
+msgid "Allow public wiki access"
+msgstr "Permitir el acceso público a la wiki"
+
+msgid "Enter true or false. If true, students can view the course wiki even if they're not enrolled in the course."
+msgstr "Ingrese verdadero o falso. Si es verdadero, los estudiantes pueden ver la wiki del curso incluso si no están inscritos."
+
+msgid "Certificate name (long)"
+msgstr "Nombre del certificado (largo)"
+
+msgid "Use this setting only when generating PDF certificates. Between quotation marks, enter the long name of the type of certificate that students receive when they complete the course. For instance, \"Certificate of Achievement\"."
+msgstr "Use esta configuración solo al generar certificados PDF. Entre comillas, escriba el nombre completo del tipo de certificado que recibirán los estudiantes al completar el curso. Por ejemplo, \"Certificado de Aprobado\"."
+
+msgid "Certificate name (short)"
+msgstr "Nombre del certificado (corto)"
+
+msgid "Use this setting only when generating PDF certificates. Between quotation marks, enter the short name of the type of certificate that students receive when they complete the course. For instance, \"Certificate\"."
+msgstr "Use esta configuración solo al generar certificados PDF. Entre comillas, escriba el nombre corto del tipo de certificado que recibirán los estudiantes al completar el curso. Por ejemplo, \"Certificado\"."
+
+msgid "Certificate web/html view overrides"
+msgstr "Sobreescritura de vistas web/HTML de certificados"
+
+msgid "Enter course-specific overrides for the Web/HTML template parameters here (JSON format)"
+msgstr "Ingrese aquí modificaciones específicas del curso para los parámetros de la plantilla Web/HTML (formato JSON)"
+
+msgid "Cosmetic course display price"
+msgstr "Precio cosmético de visualización del curso"
+
+msgid "The cost displayed to students for enrolling in the course. If a paid course registration price is set by an administrator in the database, that price will be displayed instead of this one."
+msgstr "El costo que se muestra a los estudiantes al inscribirse en el curso. Si un administrador establece un precio de inscripción al curso en la base de datos, se mostrará ese precio en lugar de este."
+
+msgid "Course about page image"
+msgstr "Imagen del curso en la página acerca de"
+
+msgid "Edit the name of the course image file. You must upload this file on the Files & Uploads page. You can also set the course image on the Settings & Details page."
+msgstr "Edita el nombre del archivo de imagen del curso. Debes subirlo en la página Archivos y Cargas. También puedes configurar la imagen del curso en la página Configuración y Detalles."
+
+msgid "Course advertised start"
+msgstr "Anuncio de inicio del curso"
+
+msgid "Enter the text that you want to use as the advertised starting time frame for the course, such as \"Winter 2018\". If you enter null for this value, the start date that you have set for this course is used."
+msgstr "Introduce el texto que quieras usar como anuncio de fecha de inicio para el curso, por ejemplo, \"Invierno 2018\". Si introduces un valor nulo, se usará la fecha de inicio que hayas establecido para este curso."
+
+msgid "Course announcement date"
+msgstr "Fecha de anuncio del curso"
+
+msgid "Enter the date to announce your course."
+msgstr "Introduce la fecha para anunciar tu curso."
+
+msgid "Course banner image"
+msgstr "Imagen del banner del curso"
+
+msgid "Edit the name of the banner image file. You can set the banner image on the Settings & Details page."
+msgstr "Edite el nombre del archivo de imagen del banner. Puede configurar la imagen del banner en la página Configuración y detalles."
+
+msgid "Course display name"
+msgstr "Nombre para mostrar del curso"
+
+msgid "Course instructor"
+msgstr "Docente del curso"
+
+msgid "Enter the details for Course Instructor"
+msgstr "Introduzca los detalles para el docente del curso"
+
+msgid "Course is new"
+msgstr "El curso es nuevo"
+
+msgid "Enter true or false. If true, the course appears in the list of new courses, and a New! badge temporarily appears next to the course image."
+msgstr "Ingrese verdadero o falso. Si es verdadero, el curso aparece en la lista de cursos nuevos y aparece temporalmente la insignia \"¡Nuevo!\" junto a su imagen."
+
+msgid "Course learning information"
+msgstr "Información de aprendizaje del curso."
+
+msgid "Specify what student can learn from the course."
+msgstr "Especifique lo que el estudiante puede aprender en el curso."
+
+msgid "Course maximum student enrollment"
+msgstr "Número máximo de estudiantes que se pueden inscribir en el curso"
+
+msgid "Enter the maximum number of students that can enroll in the course. To allow an unlimited number of students, enter null."
+msgstr "Introduzca el número máximo de estudiantes que pueden inscribirse en el curso. Para permitir un número ilimitado de estudiantes, introduzca \"null\"."
+
+msgid "Course not graded"
+msgstr "Curso no calificado"
+
+msgid "Enter true or false. If true, the course will not be graded."
+msgstr "Ingrese verdadero o falso. Si es verdadero, el curso no se calificará."
+
+msgid "Course number display string"
+msgstr "Número de curso que se mostrará"
+
+msgid "Enter the course number that you want to appear in the course. This setting overrides the course number that you entered when you created the course. To use the course number that you entered when you created the course, enter null."
+msgstr "Introduce el número de curso que quieres que aparezca en el curso. Esta configuración anula el número de curso que introdujiste al crearlo. Para usar el número de curso que introdujiste al crearlo, introduce \"null\"."
+
+msgid "Course video thumbnail image"
+msgstr "Imagen en miniatura del vídeo del curso."
+
+msgid "Edit the name of the video thumbnail image file. You can set the video thumbnail image on the Settings & Details page."
+msgstr "Edita el nombre del archivo de miniatura del video. Puedes configurar la miniatura en la página Configuración y detalles."
+
+msgid "Course visibility in catalog"
+msgstr "Visibilidad del curso en el catálogo."
+
+msgid "Defines the access permissions for showing the course in the course catalog. This can be set to one of three values: 'both' (show in catalog and allow access to about page), 'about' (only allow access to about page), 'none' (do not show in catalog and do not allow access to an about page)."
+msgstr "Define los permisos de acceso para mostrar el curso en el catálogo. Se puede configurar con uno de estos tres valores: 'ambos' (mostrar en el catálogo y permitir el acceso a la página 'Acerca de'), 'Acerca de' (permitir solo el acceso a la página 'Acerca de'), 'ninguno' (no mostrar en el catálogo ni permitir el acceso a la página 'Acerca de')."
+
+msgid "Course-wide custom css"
+msgstr "CSS personalizado para todo el curso"
+
+msgid "Enter CSS resource URLs you want to be loaded globally throughout the course pages."
+msgstr "Introduzca las URL de recursos CSS que desea que se carguen globalmente en todas las páginas del curso."
+
+msgid "Course-wide custom js"
+msgstr "JS personalizado para todo el curso"
+
+msgid "Enter Javascript resource URLs you want to be loaded globally throughout the course pages."
+msgstr "Introduzca las URL de recursos de Javascript que desea que se carguen globalmente en todas las páginas del curso."
+
+msgid "Create zendesk tickets for suspicious proctored exam attempts"
+msgstr "Crear tickets de Zendesk para intentos sospechosos de exámenes supervisados."
+
+msgid "Enter true or false. If this value is true, a Zendesk ticket will be created for suspicious attempts."
+msgstr "Ingrese verdadero o falso. Si este valor es verdadero, se creará un ticket de Zendesk para los intentos sospechosos."
+
+msgid "Days early for beta users"
+msgstr "Días antes para los usuarios beta"
+
+msgid "Enter the number of days before the start date that beta users can access the course."
+msgstr "Ingrese el número de días antes de la fecha de inicio en que los usuarios beta pueden acceder al curso."
+
+msgid "Disable progress graph"
+msgstr "Deshabilitar gráfico de progreso"
+
+msgid "Enter true or false. If true, students cannot view the progress graph."
+msgstr "Ingrese verdadero o falso. Si es verdadero, los estudiantes no podrán ver el gráfico de progreso."
+
+msgid "Due date display format"
+msgstr "Formato de visualización de fecha de vencimiento"
+
+msgid "Enter the format for due dates. The default is Mon DD, YYYY. Enter '%m-%d-%Y' for MM-DD-YYYY, '%d-%m-%Y' for DD-MM-YYYY, '%Y-%m-%d' for YYYY-MM-DD, or '%Y-%d-%m' for YYYY-DD-MM."
+msgstr "Introduzca el formato de las fechas de vencimiento. El valor predeterminado es Lun DD, AAAA. Introduzca '%m-%d-%Y' para MM-DD-AAAA, '%d-%m-%Y' para DD-MM-AAAA, '%Y-%m-%d' para AAAA-MM-DD o '%Y-%d-%m' para AAAA-DD-MM."
+
+msgid "Enable latex compiler"
+msgstr "Habilitar el compilador LaTex"
+
+msgid "Enter true or false. If true, you can use the LaTeX templates for HTML components and advanced Problem components."
+msgstr "Ingrese verdadero o falso. Si es verdadero, puede usar las plantillas LaTeX para componentes HTML y componentes de problemas avanzados."
+
+msgid "Enable proctored exams"
+msgstr "Habilitar exámenes supervisados"
+
+msgid "Enter true or false. If this value is true, proctored exams are enabled in your course. Note that enabling proctored exams will also enable timed exams."
+msgstr "Ingrese verdadero o falso. Si este valor es verdadero, se habilitarán los exámenes supervisados en su curso. Tenga en cuenta que habilitar los exámenes supervisados también habilitará los exámenes cronometrados."
+
+msgid "Enable subsection prerequisites"
+msgstr "Habilitar requisitos previos de subsección"
+
+msgid "Enter true or false. If this value is true, you can hide a subsection until learners earn a minimum score in another, prerequisite subsection."
+msgstr "Ingrese verdadero o falso. Si este valor es verdadero, puede ocultar una subsección hasta que los alumnos obtengan la puntuación mínima en otra subsección prerrequisito."
+
+msgid "Enable timed exams"
+msgstr "Habilitar exámenes cronometrados"
+
+msgid "Enter true or false. If this value is true, timed exams are enabled in your course. Regardless of this setting, timed exams are enabled if Enable Proctored Exams is set to true."
+msgstr "Ingrese 'verdadero' o 'falso'. Si este valor es 'verdadero', se habilitarán los exámenes cronometrados en su curso. Independientemente de esta configuración, los exámenes cronometrados se habilitarán si la opción 'Habilitar exámenes supervisados' está establecida en 'verdadero'."
+
+msgid "Enable video caching system"
+msgstr "Habilitar el sistema de almacenamiento en caché de vídeo."
+
+msgid "Enter true or false. If true, video caching will be used for HTML5 videos."
+msgstr "Ingrese verdadero o falso. Si es verdadero, se usará el almacenamiento en caché de video para videos HTML5."
+
+msgid "External login domain"
+msgstr "Dominio de inicio de sesión externo"
+
+msgid "Enter the external login method students can use for the course."
+msgstr "Ingrese el método de inicio de sesión externo que los estudiantes pueden usar para el curso."
+
+msgid "Enter the date by which problems are due."
+msgstr "Introduzca la fecha límite en la que deben solucionarse los problemas."
+
+msgid "Force flexible grading for peer oras"
+msgstr "Forzar la calificación flexible para ORA de pares"
+
+msgid "Setting this flag will force on the flexible grading option for all peer-graded ORAs in this course."
+msgstr "Al configurar esta bandera se activará la opción de calificación flexible para todos los ORA calificados por pares en este curso."
+
+msgid "Html textbooks"
+msgstr "Libros de texto HTML"
+
+msgid "For HTML textbooks that appear as separate tabs in the course, enter the name of the tab (usually the title of the book) as well as the URLs and titles of each chapter in the book."
+msgstr "Para los libros de texto HTML que aparecen como pestañas separadas en el curso, ingrese el nombre de la pestaña (generalmente el título del libro), así como las URL y los títulos de cada capítulo del libro."
+
+msgid "Invitation only"
+msgstr "Solo con invitación"
+
+msgid "Whether to restrict enrollment to invitation by the course staff."
+msgstr "Si se debe restringir la inscripción a la invitación del personal del curso."
+
+msgid "Lti passports"
+msgstr "Pasaportes LTI"
+
+msgid "Enter the passports for course LTI tools in the following format: 'id:client_key:client_secret'."
+msgstr "Introduzca los pasaportes para las herramientas LTI del curso en el siguiente formato: 'id:client_key:client_secret'."
+
+msgid "Matlab api key"
+msgstr "Clave API de Matlab"
+
+msgid "Enter the API key provided by MathWorks for accessing the MATLAB Hosted Service. This key is granted for exclusive use in this course for the specified duration. Do not share the API key with other courses. Notify MathWorks immediately if you believe the key is exposed or compromised. To obtain a key for your course, or to report an issue, please contact moocsupport@mathworks.com"
+msgstr "Introduzca la clave API proporcionada por MathWorks para acceder al servicio alojado de MATLAB. Esta clave se otorga para uso exclusivo en este curso durante la duración especificada. No comparta la clave API con otros cursos. Notifique a MathWorks inmediatamente si cree que la clave está expuesta o comprometida. Para obtener una clave para su curso o informar un problema, póngase en contacto con moocsupport@mathworks.com."
+
+msgid "Mobile course available"
+msgstr "Curso móvil disponible"
+
+msgid "Enter true or false. If true, the course will be available to mobile devices."
+msgstr "Ingrese verdadero o falso. Si es verdadero, el curso estará disponible en dispositivos móviles."
+
+msgid "Number of relative weeks due by"
+msgstr "Número de semanas para entregar los problemas"
+
+msgid "Enter the number of weeks the problems are due by relative to the learner's enrollment date"
+msgstr "Ingrese el número de semanas en que deben entregarse los problemas en relación con la fecha de inscripción del alumno"
+
+msgid "Proctoring provider"
+msgstr "Proveedor de supervisión"
+
+msgid "Enter the proctoring provider you want to use for this course run. Choose from the following options: lti_external, null."
+msgstr "Ingrese el proveedor de supervisión que desea utilizar para este curso. Elija entre las siguientes opciones: lti_external, null."
+
+msgid "Randomization"
+msgstr "Aleatorización"
+
+msgid "Specify the default for how often variable values in a problem are randomized. This setting should be set to 'never' unless you plan to provide a Python script to identify and randomize values in most of the problems in your course. Valid values are 'always', 'onreset', 'never', and 'per_student'."
+msgstr "Especifique la frecuencia predeterminada para la aleatorización de los valores de las variables en un problema. Esta opción debe establecerse en 'nunca' a menos que planee proporcionar un script de Python para identificar y aleatorizar valores en la mayoría de los problemas de su curso. Los valores válidos son 'siempre', 'alreset', 'nunca' y 'por estudiante'."
+
+msgid "Remote gradebook"
+msgstr "Libro de calificaciones remoto"
+
+msgid "Enter the remote gradebook mapping. Only use this setting when REMOTE_GRADEBOOK_URL has been specified."
+msgstr "Introduzca la asignación del libro de calificaciones remoto. Use esta configuración solo cuando se haya especificado LIBRODECALIFICACIONES_REMOTO_URL."
+
+msgid "Show answer"
+msgstr "Mostrar respuesta"
+
+msgid "Specify when the Show Answer button appears for each problem. Valid values are 'always', 'answered', 'attempted', 'closed', 'finished', 'past_due', 'correct_or_past_due', 'after_all_attempts', 'after_all_attempts_or_correct', 'attempted_no_past_due', and 'never'."
+msgstr "Especifique cuándo aparece el botón 'Mostrar respuesta' para cada problema. Los valores válidos son 'siempre', 'respondido', 'intentado', 'cerrado', 'finalizado', 'vencido', 'correcto o vencido', 'después de todos los intentos', 'después de todos los intentos o correcto', 'intentado sin vencimiento' y 'nunca'."
+
+msgid "Show calculator"
+msgstr "Mostrar calculadora"
+
+msgid "Enter true or false. When true, students can see the calculator in the course."
+msgstr "Ingrese verdadero o falso. Si es verdadero, los estudiantes podrán ver la calculadora en el curso."
+
+msgid "Show reset button for problems"
+msgstr "Mostrar el botón de reinicio para problemas"
+
+msgid "Enter true or false. If true, problems in the course default to always displaying a 'Reset' button. You can override this in each problem's settings. All existing problems are affected when this course-wide setting is changed."
+msgstr "Ingrese verdadero o falso. Si es verdadero, los problemas del curso siempre mostrarán, por defecto, el botón 'Restablecer'. Puede anular esta opción en la configuración de cada problema. Todos los problemas existentes se ven afectados al cambiar esta configuración para todo el curso."
+
+msgid "Static asset path"
+msgstr "Ruta de recursos estáticos"
+
+msgid "Enter the path to use for files on the Files & Uploads page. This value overrides the Studio default, c4x://."
+msgstr "Introduce la ruta que se usará para los archivos en la página Archivos y subidas. Este valor anula el valor predeterminado de Studio, c4x://."
+
+msgid "Teams configuration"
+msgstr "Configuración de equipos"
+
+msgid "Configure team sets, limit team sizes, and set visibility settings using JSON. See"
+msgstr "Configurar conjuntos de equipos, limitar el tamaño de los equipos y establecer la configuración de visibilidad mediante JSON. Ver"
+
+msgid "for help and examples."
+msgstr "para obtener ayuda y ejemplos."
+
+msgid "Video sharing options"
+msgstr "Opciones para compartir vídeos"
+
+msgid "Specify the video sharing options for the course. This can be set to one of three values: 'all-on', 'all-off' and 'per-video'. with 'per-video' as the default."
+msgstr "Especifique las opciones para compartir videos del curso. Se pueden configurar con tres valores: 'activado', 'desactivado' y 'por video'. El valor predeterminado es 'por video'."
+
+msgid "Video upload credentials"
+msgstr "Credenciales para subir vídeos"
+
+msgid "Enter the unique identifier for your course's video files provided by My Open edX."
+msgstr "Ingrese el identificador único para los archivos de video de su curso proporcionado por My Open edX."
+
+msgid "Upstream"
+msgstr "Upstream"
+
+msgid "The usage key of a block (generally within a content library) which serves as a source of upstream updates for this block, or None if there is no such upstream. Please note: It is valid for this field to hold a usage key for an upstream block that does not exist (or does not *yet* exist) on this instance, particularly if this downstream block was imported from a different instance."
+msgstr "La clave de uso de un bloque (generalmente dentro de una biblioteca de contenido) que sirve como fuente de actualizaciones upstream para este bloque, o 'Ninguna' si no existe dicha actualización upstream. Nota: Este campo puede contener una clave de uso para un bloque upstream que no existe (o que aún no existe) en esta instancia, especialmente si este bloque downstream se importó desde una instancia diferente."
+
+msgid "Upstream_display_name"
+msgstr "Nombre que se mostrará para el upstream"
+
+msgid "The value of display_name on the linked upstream block."
+msgstr "El nombre que se mostrará en el bloque upstream vinculado."
+
+msgid "Upstream_max_attempts"
+msgstr "Intentos máximos para el upstream"
+
+msgid "The value of max_attempts on the linked upstream block."
+msgstr "El valor máximo de intentos en el bloque upstream vinculado."
+
+msgid "Upstream_version"
+msgstr "Versión de upstream"
+
+msgid "Record of the upstream block's version number at the time this block was created from it. If this upstream_version is smaller than the upstream block's latest published version, then the author will be invited to sync updates into this downstream block, presuming that they have not already declined to sync said version."
+msgstr "Registro del número de versión del bloque original en el momento de su creación. Si esta versión es menor que la última versión publicada del bloque original, se invitará al autor a sincronizar las actualizaciones en este bloque posterior, siempre que no haya rechazado la sincronización de dicha versión."
+
+msgid "Upstream_version_declined"
+msgstr "Versión upstream rechazada"
+
+msgid "Record of the latest upstream version for which the author declined to sync updates, or None if they have never declined an update."
+msgstr "Registro de la última versión upstream para la cual el autor se negó a sincronizar actualizaciones, o Ninguno si nunca rechazó una actualización."
+
+msgid "images_course_image.jpg"
+msgstr "imágenes_curso_imagen.jpg"
+
+msgid "null"
+msgstr "vacío"
+
+msgid "instructors"
+msgstr "docentes"
+
+msgid "both"
+msgstr "ambos"
+
+msgid "never"
+msgstr "nunca"
+
+msgid "finished"
+msgstr "finalizado"
+
+msgid "per-video"
+msgstr "por video"
+
+msgid "Warning: Do not modify these policies unless you are familiar with their purpose."
+msgstr "Advertencia: No modifique estas políticas a menos que esté familiarizado con su propósito."
+
+msgid "Upload TARGZ files"
+msgstr "Subir archivos TARGZ"
+
+msgid "Drag and drop your file here or click to upload."
+msgstr "Arrastre y suelte su archivo aquí o haga clic para cargarlo."
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "No tags in current results"
+msgstr "No hay etiquetas en los resultados actuales"
+
+msgid "This course"
+msgstr "Este curso"
+
+msgid "All courses"
+msgstr "Todos los cursos"
+
+msgid "Start searching to find content"
+msgstr "Empieza a buscar para encontrar contenido"
+
+msgid "Find sections, subsections, units and components"
+msgstr "Encuentre secciones, subsecciones, unidades y componentes"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Search Tags"
+msgstr "Buscar etiquetas"
+
+msgid "Clear Filter"
+msgstr "Limpiar filtro"
+
+msgid "results found"
+msgstr "resultados encontrados"
+
