@@ -12796,3 +12796,24 @@ msgstr "Encuentre secciones, subsecciones, unidades y componentes"
 
 msgid "Clear Filter"
 msgstr "Limpiar filtro"
+
+msgid "About Us"
+msgstr "Acerca de nosotros"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Donate"
+msgstr "Donar"
+
+msgid "Terms of Service"
+msgstr "Términos de servicio"
+
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Contact Us"
+msgstr "Contáctenos"
