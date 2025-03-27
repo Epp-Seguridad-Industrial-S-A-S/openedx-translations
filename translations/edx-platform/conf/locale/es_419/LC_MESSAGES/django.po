@@ -26915,17 +26915,6 @@ msgstr "Aún no se ha seleccionado una biblioteca. Selecciona una biblioteca."
 msgid "Drag and drop your file here or click to upload."
 msgstr "Arrastra y suelta tu archivo aquí o haz clic para subirlo."
 
-msgid "Upload TARGZ files"
-msgstr "Subir archivos TARGZ"
-
-msgid "About Us"
-msgstr "Acerca de nosotros"
-
-msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
-msgstr "Explora un mundo de conocimiento y mejora tus habilidades con nuestra diversa gama de cursos"
-
-msgid "Discover"
-msgstr "Descubrir"
 
 msgid "Powered by"
 msgstr "Con el apoyo de"
@@ -26947,3 +26936,18 @@ msgstr "Buscar todas las publicaciones"
 
 msgid "Upload CSV or JSON files (Max 100MB)"
 msgstr "Subir archivos CSV o JSON (Máx. 100MB)"
+
+msgid "Copyrights"
+msgstr "Droits d'auteur"
+
+msgid "About Us"
+msgstr "Acerca de nosotros"
+
+msgid "Unlock Your Potential: Discover New Courses Today!"
+msgstr "Déverrouillez votre potentiel : Découvrez de nouveaux cours dès aujourd'hui !"
+
+msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
+msgstr "Explorez un monde de connaissances et améliorez vos compétences avec notre large gamme de cours"
+
+msgid "Filters"
+msgstr "Filtros"
