@@ -1991,5 +1991,21 @@
   "course-authoring.library-authoring.component.manage-tab.collections.search-placeholder": "Buscar",
   "course-authoring.search-manager.inputPlaceholder": "Buscar",
   "course-authoring.search-manager.searchTagsByKeywordPlaceholder": "Buscar etiquetas",
-  "course-authoring.course-search.title": "Buscar"
+  "course-authoring.course-search.searchAllCourses": "Todos los cursos",
+  "course-authoring.course-search.searchThisCourse": "Este curso",
+  "course-authoring.course-search.title": "Buscar",
+  "course-authoring.course-search.showMore": "Mostrar más",
+  "course-authoring.course-search.showMoreResults": "Mostrar más resultados",
+  "course-authoring.course-search.loadingMoreResults": "Cargando más resultados",
+  "course-authoring.course-search.emptySearchTitle": "Comienza a buscar para encontrar contenido",
+  "course-authoring.course-search.emptySearchSubtitle": "Encuentra secciones, subsecciones, unidades y componentes",
+  "course-authoring.course-search.noResultsTitle": "No encontramos nada que coincida con tu búsqueda",
+  "course-authoring.course-search.noResultsSubtitle": "Por favor intenta con otro término de búsqueda o filtro",
+  "course-authoring.course-search.openInNewWindow": "Abrir en una nueva ventana",
+  "course-authoring.course-search.searchError": "Ocurrió un error. No se pudieron cargar los resultados de búsqueda.",
+  "authoring.problemEditor.selectType.title": "Seleccionar tipo de problema",
+  "authoring.problemeditor.selecttype.cancelButton.label": "Cancelar",
+  "authoring.problemeditor.selecttype.cancelButton.ariaLabel": "Cancelar",
+  "authoring.problemeditor.selecttype.selectButton.label": "Seleccionar",
+  "authoring.problemeditor.selecttype.selectButton.ariaLabel": "Seleccionar"
 }

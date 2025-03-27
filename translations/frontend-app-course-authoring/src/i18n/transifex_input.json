@@ -1993,5 +1993,22 @@
   "course-authoring.library-authoring.component.manage-tab.collections.search-placeholder": "Search",
   "course-authoring.search-manager.inputPlaceholder": "Search",
   "course-authoring.search-manager.searchTagsByKeywordPlaceholder": "Search tags",
-  "course-authoring.course-search.title": "Search"
+  "course-authoring.course-search.searchAllCourses": "All courses",
+  "course-authoring.course-search.searchThisCourse": "This course",
+  "course-authoring.course-search.title": "Search",
+  "course-authoring.course-search.showMore": "Show more",
+  "course-authoring.course-search.showMoreResults": "Show more results",
+  "course-authoring.course-search.loadingMoreResults": "Loading more results",
+  "course-authoring.course-search.emptySearchTitle": "Start searching to find content",
+  "course-authoring.course-search.emptySearchSubtitle": "Find sections, subsections, units and components",
+  "course-authoring.course-search.noResultsTitle": "We didn’t find anything matching your search",
+  "course-authoring.course-search.noResultsSubtitle": "Please try a different search term or filter",
+  "course-authoring.course-search.openInNewWindow": "Open in new window",
+  "course-authoring.course-search.searchError": "An error occurred. Unable to load search results.",
+  "authoring.problemEditor.selectType.title": "Select problem type",
+  "authoring.problemeditor.selecttype.cancelButton.label": "Cancel",
+  "authoring.problemeditor.selecttype.cancelButton.ariaLabel": "Cancel",
+  "authoring.problemeditor.selecttype.selectButton.label": "Select",
+  "authoring.problemeditor.selecttype.selectButton.ariaLabel": "Select"
+
 }
