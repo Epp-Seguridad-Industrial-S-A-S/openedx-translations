@@ -26947,9 +26947,3 @@ msgstr "Buscar todas las publicaciones"
 
 msgid "Upload CSV or JSON files (Max 100MB)"
 msgstr "Subir archivos CSV o JSON (Máx. 100MB)"
-
-msgid "A library has not yet been selected. "
-msgstr "Aún no se ha seleccionado una biblioteca."
-
-msgid "Select a Library."
-msgstr "Selecciona una biblioteca."
