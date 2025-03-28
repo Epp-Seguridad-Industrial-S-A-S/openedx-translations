@@ -26954,3 +26954,12 @@ msgstr "Filtros"
 
 msgid "Course Summary"
 msgstr "Resumen del curso"
+
+msgid "Learners"
+msgstr "Estudiantes"
+
+msgid "Specific Student..."
+msgstr "Estudiante específico..."
+
+msgid "Test"
+msgstr "Prueba"
