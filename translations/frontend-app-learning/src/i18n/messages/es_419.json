@@ -473,6 +473,7 @@
   "instructor.toolbar.view.course": "Ver curso en:",
   "instructor.toolbar.studio": "Estudio",
   "instructor.toolbar.insights": "Información",
-  "dashboard.mycourses": "Mis Cursos",
-  "learnerVariantDashboard.discoverNew": "Descubrir Nuevos"
+  "learnerVariantDashboard.discoverNew": "Descubrir Nuevos",
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir"
 }

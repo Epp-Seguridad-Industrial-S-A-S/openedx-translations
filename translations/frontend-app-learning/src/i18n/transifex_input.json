@@ -135,5 +135,7 @@
   "masquerade-widget.userName.input.label": "Masquerade as this user",
   "instructor.toolbar.staff": "Staff",
   "instructor.toolbar.studio": "Studio",
-  "instructor.toolbar.insights": "Insights"
+  "instructor.toolbar.insights": "Insights",
+  "header.menu.mycourses.label": "My Courses",
+  "header.menu.discover.label": "Discover"
 }

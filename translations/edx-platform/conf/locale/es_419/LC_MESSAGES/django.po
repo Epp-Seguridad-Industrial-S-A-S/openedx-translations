@@ -26951,3 +26951,6 @@ msgstr "Explorez un monde de connaissances et améliorez vos compétences avec n
 
 msgid "Filters"
 msgstr "Filtros"
+
+msgid "Course Summary"
+msgstr "Resumen del curso"
