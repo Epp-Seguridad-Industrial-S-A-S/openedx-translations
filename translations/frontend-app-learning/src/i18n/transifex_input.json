@@ -129,5 +129,13 @@
   "calculator.instruction.table.to.use.scientific.notation.type2": "{notationSyntax} notation",
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax} and the exponent",
   "learn.honorCode.content": "Honesty and academic integrity are important to {siteName} and the institutions providing courses and programs on the {siteName} site. By clicking “I agree” below, I confirm that I have read, understand, and will abide by the {link} for the {siteName} Site.",
-  "learn.course.sequence.navigation.mobile.menu": "{current} of {total}"
+  "learn.course.sequence.navigation.mobile.menu": "{current} of {total}",
+  "masquerade-widget.userName.error.generic": "An error has occurred; please try again.",
+  "masquerade-widget.userName.input.placeholder": "Username or email",
+  "masquerade-widget.userName.input.label": "Masquerade as this user",
+  "instructor.toolbar.staff": "Staff",
+  "instructor.toolbar.studio": "Studio",
+  "instructor.toolbar.insights": "Insights",
+  "header.menu.mycourses.label": "My Courses",
+  "header.menu.discover.label": "Discover"
 }
