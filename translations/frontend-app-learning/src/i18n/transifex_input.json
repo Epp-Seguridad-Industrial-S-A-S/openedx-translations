@@ -169,6 +169,6 @@
   "footer.logo.altText": "Powered by Open edX",
   "footer.tutorlogo.altText": "Runs on Tutor",
   "footer.logo.ariaLabel": "edX Home",
-  "footer.copyright.text": "Copyrights ©{year}. All Rights Reserved.",
+  "footer.copyright.text": "Copyrights ©${new Date().getFullYear()}. All Rights Reserved.",
   "footer.ariaLabel": "Page Footer"
 }
