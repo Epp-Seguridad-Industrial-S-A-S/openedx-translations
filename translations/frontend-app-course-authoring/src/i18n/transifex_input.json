@@ -2056,5 +2056,20 @@
   "course-authoring.files-and-videos.file-custom2.label": "File size",
   "course-authoring.files-and-videos.file-custom3.label": "Type",
   "course-authoring.files-and-videos.file-custom4.label": "Active",
-  "course-authoring.files-and-videos.file-custom5.label": "Access"
+  "course-authoring.files-and-videos.file-custom5.label": "Access",
+  "authoring.problemeditor.problemtype.singleSelect.title": "Single select",
+  "authoring.problemeditor.problemtype.multiSelect.title": "Multi-select",
+  "authoring.problemeditor.problemtype.dropdown.title": "Dropdown",
+  "authoring.problemeditor.problemtype.numeric.title": "Numerical input",
+  "authoring.problemeditor.problemtype.textInput.title": "Text input",
+  "authoring.problemeditor.problemtype.blankProblem.title": "Blank problem",
+  "authoring.problemeditor.problemtype.circuitSchematic.title": "Circuit schematic builder",
+  "authoring.problemeditor.problemtype.circuitSchematic.status": "Not supported",
+  "authoring.problemeditor.problemtype.jsInput.title": "Custom JavaScript display and grading",
+  "authoring.problemeditor.problemtype.customGrader.title": "Custom Python-evaluated input",
+  "authoring.problemeditor.problemtype.customGrader.status": "Provisional",
+  "authoring.problemeditor.problemtype.imageResponse.title": "Image mapped input",
+  "authoring.problemeditor.problemtype.imageResponse.status": "Not supported",
+  "authoring.problemeditor.problemtype.formulaResponse.title": "Math expression input",
+  "authoring.problemeditor.problemtype.problemWithHint.title": "Problem with adaptive hint"
 }

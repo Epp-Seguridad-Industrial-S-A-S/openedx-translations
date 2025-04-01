@@ -2054,5 +2054,20 @@
   "course-authoring.files-and-videos.file-custom2.label": "Tamaño del archivo",
   "course-authoring.files-and-videos.file-custom3.label": "Tipo",
   "course-authoring.files-and-videos.file-custom4.label": "Activo",
-  "course-authoring.files-and-videos.file-custom5.label": "Acceso"
+  "course-authoring.files-and-videos.file-custom5.label": "Acceso",
+  "authoring.problemeditor.problemtype.singleSelect.title": "Selección única",
+  "authoring.problemeditor.problemtype.multiSelect.title": "Selección múltiple",
+  "authoring.problemeditor.problemtype.dropdown.title": "Desplegable",
+  "authoring.problemeditor.problemtype.numeric.title": "Entrada numérica",
+  "authoring.problemeditor.problemtype.textInput.title": "Entrada de texto",
+  "authoring.problemeditor.problemtype.blankProblem.title": "Problema en blanco",
+  "authoring.problemeditor.problemtype.circuitSchematic.title": "Constructor de esquemas de circuitos",
+  "authoring.problemeditor.problemtype.circuitSchematic.status": "No soportado",
+  "authoring.problemeditor.problemtype.jsInput.title": "Visualización y calificación con JavaScript personalizado",
+  "authoring.problemeditor.problemtype.customGrader.title": "Entrada evaluada con Python personalizado",
+  "authoring.problemeditor.problemtype.customGrader.status": "Provisional",
+  "authoring.problemeditor.problemtype.imageResponse.title": "Entrada mapeada con imagen",
+  "authoring.problemeditor.problemtype.imageResponse.status": "No soportado",
+  "authoring.problemeditor.problemtype.formulaResponse.title": "Entrada de expresión matemática",
+  "authoring.problemeditor.problemtype.problemWithHint.title": "Problema con pista adaptativa"
 }
