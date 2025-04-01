@@ -2034,5 +2034,21 @@
   "course-authoring.pages-resources.app-settings-modal.reset-all-units": "Reset all units",
   "course-authoring.pages-resources.app-settings-modal.reset-all-units-tooltip.checked": "Immediately reset any unit-level changes and checked \"Enable summaries\" on all units.",
   "course-authoring.pages-resources.app-settings-modal.reset-all-units-tooltip.unchecked": "Immediately reset any unit-level changes and unchecked \"Enable summaries\" on all units.",
-  "course-authoring.pages-resources.app-settings-modal.reset": "Reset"
+  "course-authoring.pages-resources.app-settings-modal.reset": "Reset",
+  "course-authoring.studio-home.CustomCourseSearchPlaceholder": "Search",
+  "course-authoring.studio-home.libraries.tab.order-filter-menu.ascendant-librariesv2": "Name A-Z",
+  "course-authoring.studio-home.libraries.tab.order-filter-menu.descendant-librariesv2": "Name Z-A",
+  "course-authoring.studio-home.libraries.tab.order-filter-menu.newest-librariesv2": "Newest",
+  "course-authoring.studio-home.libraries.tab.order-filter-menu.oldest-librariesv2": "Oldest",
+  "authoring.problemEditor.problemSelect.advanceButton.label": "Advanced problem types",
+  "authoring.problemEditor.advanceProblem.menu.title": "Advanced problems",
+  "authoring.problemEditor.advanceProblem.menu.goBack": "Go back",
+  "authoring.problemEditor.advanceProblem.problemType.label": "{problemType}",
+  "authoring.problemEditor.advanceProblem.supportStatus": "{supportStatus}",
+  "authoring.problemEditor.advanceProblem.supportStatus.tooltipMessage": "{supportStatus, select, Provisional {Provisionally supported tools might lack the robustness of functionality that your courses require. edX does not have control over the quality of the software, or of the content that can be provided using these tools.\n\nTest these tools thoroughly before using them in your course, especially in graded sections. Complete documentation might not be available for provisionally supported tools, or documentation might be available from sources other than edX.} Not_supported {Tools with no support are not maintained by edX, and might be deprecated in the future. They are not recommended for use in courses due to non-compliance with one or more of the base requirements, such as testing, accessibility, internationalization, and documentation.} other {}}",
+  "authoring.problemEditor.preview.title": "{previewTitle} problem",
+  "authoring.problemEditor.preview.altText": "A preview illustration of a {problemType, select, multiplechoiceresponse {single select} stringreponse {text input} numericalresponse {numerical input} optionresponse {dropdown} choiceresponse {multiple select} other {null}} problem",
+  "authoring.problemEditor.preview.description": "{previewDescription}",
+  "authoring.problemEditor.learnMoreButtonLabel.label": "Learn more",
+  "authoring.problemEditor.advanceProblem.learnMoreButtonLabel.label": "Learn more about advanced problem types"
 }
