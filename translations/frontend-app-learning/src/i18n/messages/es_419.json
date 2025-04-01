@@ -507,6 +507,5 @@
   "footer.logo.altText": "Desarrollado por Open edX",
   "footer.tutorlogo.altText": "Funciona con Tutor",
   "footer.logo.ariaLabel": "Inicio de edX",
-  "footer.copyright.text": "Derechos de autor ©${new Date().getFullYear()}. Todos los derechos reservados.",
   "footer.ariaLabel": "Pie de página"
 }
