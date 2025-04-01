@@ -2048,5 +2048,11 @@
   "authoring.problemEditor.preview.altText": "Una ilustración previa de un problema de tipo {problemType, select, multiplechoiceresponse {selección única} stringreponse {entrada de texto} numericalresponse {entrada numérica} optionresponse {desplegable} choiceresponse {selección múltiple} other {nulo}}",
   "authoring.problemEditor.preview.description": "{previewDescription}",
   "authoring.problemEditor.learnMoreButtonLabel.label": "Aprender más",
-  "authoring.problemEditor.advanceProblem.learnMoreButtonLabel.label": "Aprender más sobre tipos de problemas avanzados"
+  "authoring.problemEditor.advanceProblem.learnMoreButtonLabel.label": "Aprender más sobre tipos de problemas avanzados",
+  "course-authoring.studio-home.libraries.tab.library.not.found.alert.message": "No hay bibliotecas con los filtros actuales.",
+  "course-authoring.files-and-videos.file-custom1.label": "Nombre del archivo",
+  "course-authoring.files-and-videos.file-custom2.label": "Tamaño del archivo",
+  "course-authoring.files-and-videos.file-custom3.label": "Tipo",
+  "course-authoring.files-and-videos.file-custom4.label": "Activo",
+  "course-authoring.files-and-videos.file-custom5.label": "Acceso"
 }

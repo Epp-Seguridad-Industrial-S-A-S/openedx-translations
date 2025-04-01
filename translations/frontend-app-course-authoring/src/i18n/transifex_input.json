@@ -2050,5 +2050,11 @@
   "authoring.problemEditor.preview.altText": "A preview illustration of a {problemType, select, multiplechoiceresponse {single select} stringreponse {text input} numericalresponse {numerical input} optionresponse {dropdown} choiceresponse {multiple select} other {null}} problem",
   "authoring.problemEditor.preview.description": "{previewDescription}",
   "authoring.problemEditor.learnMoreButtonLabel.label": "Learn more",
-  "authoring.problemEditor.advanceProblem.learnMoreButtonLabel.label": "Learn more about advanced problem types"
+  "authoring.problemEditor.advanceProblem.learnMoreButtonLabel.label": "Learn more about advanced problem types",
+  "course-authoring.studio-home.libraries.tab.library.not.found.alert.message": "There are no libraries with the current filters.",
+  "course-authoring.files-and-videos.file-custom1.label": "File name",
+  "course-authoring.files-and-videos.file-custom2.label": "File size",
+  "course-authoring.files-and-videos.file-custom3.label": "Type",
+  "course-authoring.files-and-videos.file-custom4.label": "Active",
+  "course-authoring.files-and-videos.file-custom5.label": "Access"
 }
