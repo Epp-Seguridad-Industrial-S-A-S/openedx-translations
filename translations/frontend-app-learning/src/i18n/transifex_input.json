@@ -169,5 +169,9 @@
   "footer.logo.altText": "Powered by Open edX",
   "footer.tutorlogo.altText": "Runs on Tutor",
   "footer.logo.ariaLabel": "edX Home",
-  "footer.ariaLabel": "Page Footer"
+  "footer.ariaLabel": "Page Footer",
+  "instructor.toolbar.view.as": "View this course as:",
+  "instructor.toolbar.view.course": "View course in:",
+  "instructor.toolbar.studio": "Studio",
+  "instructor.toolbar.insights": "Insights"
 }
