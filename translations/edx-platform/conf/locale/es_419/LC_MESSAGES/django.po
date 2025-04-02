@@ -27018,3 +27018,6 @@ msgstr "Su carrito de compras está actualmente vacío."
 
 msgid "Discount Applied:"
 msgstr "Descuento aplicado:"
+
+msgid "Add to Cart"
+msgstr "añadir a la cesta"
