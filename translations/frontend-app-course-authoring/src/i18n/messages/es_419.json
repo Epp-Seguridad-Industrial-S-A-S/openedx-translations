@@ -2069,5 +2069,20 @@
   "authoring.problemeditor.problemtype.imageResponse.title": "Entrada mapeada con imagen",
   "authoring.problemeditor.problemtype.imageResponse.status": "No soportado",
   "authoring.problemeditor.problemtype.formulaResponse.title": "Entrada de expresión matemática",
-  "authoring.problemeditor.problemtype.problemWithHint.title": "Problema con pista adaptativa"
+  "authoring.problemeditor.problemtype.problemWithHint.title": "Problema con pista adaptativa",
+  "authoring.editorfooter.cancelButton.label": "Cancelar",
+  "authoring.editorfooter.savebutton.label": "Guardar",
+  "course-authoring.custom-pages.body.CustomButtonLabel1": "Contenido",
+  "course-authoring.custom-pages.body.CustomButtonLabel2": "Páginas y Recursos",
+  "course-authoring.notifications.customNotificationSaving": "Guardando",
+  "course-authoring.notifications.customNotificationAdding": "Agregando",
+  "course-authoring.notifications.customNotificationDuplicating": "Duplicando",
+  "course-authoring.notifications.customNotificationDeleting": "Eliminando",
+  "course-authoring.notifications.customNotificationCopying": "Copiando",
+  "course-authoring.notifications.customNotificationPasting": "Pegando",
+  "course-authoring.notifications.customNotificationDiscardingChanges": "Descartando cambios",
+  "course-authoring.notifications.customNotificationPublishing": "Publicando",
+  "course-authoring.notifications.customNotificationHidingFromStudents": "Ocultando a los estudiantes",
+  "course-authoring.notifications.customNotificationMakingVisibleToStudents": "Haciendo visible para los estudiantes",
+  "course-authoring.notifications.customNotificationEmpty": ""
 }

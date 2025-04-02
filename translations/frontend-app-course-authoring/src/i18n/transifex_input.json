@@ -2071,5 +2071,20 @@
   "authoring.problemeditor.problemtype.imageResponse.title": "Image mapped input",
   "authoring.problemeditor.problemtype.imageResponse.status": "Not supported",
   "authoring.problemeditor.problemtype.formulaResponse.title": "Math expression input",
-  "authoring.problemeditor.problemtype.problemWithHint.title": "Problem with adaptive hint"
+  "authoring.problemeditor.problemtype.problemWithHint.title": "Problem with adaptive hint",
+  "authoring.editorfooter.cancelButton.label": "Cancel",
+  "authoring.editorfooter.savebutton.label": "Save",
+  "course-authoring.custom-pages..body.CustomButtonLabel1": "Content",
+  "course-authoring.custom-pages..body.CustomButtonLabel2": "Pages and Resources",
+  "course-authoring.notifications.customNotificationSaving": "Saving",
+  "course-authoring.notifications.customNotificationAdding": "Adding",
+  "course-authoring.notifications.customNotificationDuplicating": "Duplicating",
+  "course-authoring.notifications.customNotificationDeleting": "Deleting",
+  "course-authoring.notifications.customNotificationCopying": "Copying",
+  "course-authoring.notifications.customNotificationPasting": "Pasting",
+  "course-authoring.notifications.customNotificationDiscardingChanges": "Discarding changes",
+  "course-authoring.notifications.customNotificationPublishing": "Publishing",
+  "course-authoring.notifications.customNotificationHidingFromStudents": "Hiding from students",
+  "course-authoring.notifications.customNotificationMakingVisibleToStudents": "Making visible to students",
+  "course-authoring.notifications.customNotificationEmpty": ""
 }
