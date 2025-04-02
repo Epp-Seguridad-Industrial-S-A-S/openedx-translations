@@ -26963,3 +26963,58 @@ msgstr "Estudiante específico..."
 
 msgid "Test"
 msgstr "Prueba"
+
+msgid "Files"
+msgstr "Archivos"
+
+msgid "View in Cart"
+msgstr "Ver en el carrito"
+
+msgid "Shopping Cart"
+msgstr "Carro de la compra"
+
+msgid "Revisión"
+msgstr "Revisión"
+
+msgid "Payment"
+msgstr "Pago"
+
+msgid "Confirmation"
+msgstr "Confirmación"
+
+msgid "Registration for:"
+msgstr "Registro para:"
+
+msgid "Price per student:"
+msgstr "Precio por alumno:"
+
+msgid "Qty:"
+msgstr "Cantidad:"
+
+msgid "discount or activation code"
+msgstr "código de descuento o activación"
+
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "TOTAL"
+msgstr "TOTAL"
+
+msgid "Must enter a valid code"
+msgstr "Debe ingresar un código válido"
+
+msgid "After this purchase is complete, a receipt is generated with relative billing details and registration codes for students."
+msgstr "Una vez completada esta compra, se genera un recibo con los detalles de facturación relativos y los códigos de registro de los estudiantes."
+
+msgid "After this purchase is complete, {username} will be enrolled in this course."
+msgstr "Una vez completada esta compra, {username} quedará inscrito en este curso."
+
+msgid "code has been applied"
+msgstr "se ha aplicado el código"
+
+msgid "Your Shopping cart is currently empty."
+msgstr "Su carrito de compras está actualmente vacío."
+
+msgid "Discount Applied:"
+msgstr "Descuento aplicado:"
