@@ -2083,8 +2083,8 @@
   "authoring.problemeditor.problemtype.status.provisional": "Provisional"
   "authoring.editorfooter.cancelButton.label": "Cancel",
   "authoring.editorfooter.savebutton.label": "Save",
-  "course-authoring.custom-pages..body.CustomButtonLabel1": "Content",
-  "course-authoring.custom-pages..body.CustomButtonLabel2": "Pages and Resources",
+  "course-authoring.custom-pages.body.CustomButtonLabel1": "Content",
+  "course-authoring.custom-pages.body.CustomButtonLabel2": "Pages and Resources",
   "course-authoring.notifications.custom0": "Saving",
   "course-authoring.notifications.custom1": "Adding",
   "course-authoring.notifications.custom2": "Duplicating",
