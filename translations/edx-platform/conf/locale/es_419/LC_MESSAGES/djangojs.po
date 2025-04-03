@@ -12793,7 +12793,6 @@ msgstr "Empieza a buscar para encontrar contenido"
 msgid "Find sections, subsections, units and components"
 msgstr "Encuentre secciones, subsecciones, unidades y componentes"
 
-
 msgid "Clear Filter"
 msgstr "Limpiar filtro"
 
@@ -12811,3 +12810,15 @@ msgstr "Política de privacidad"
 
 msgid "Help"
 msgstr "Ayuda"
+
+msgid "Please enter the purchasing organization name."
+msgstr "Ingrese el nombre de la organización compradora."
+
+msgid "Please enter the organization contact name."
+msgstr "Ingrese el nombre de contacto de la organización."
+
+msgid "Please enter a valid email address for the organization contact."
+msgstr "Ingrese una dirección de correo electrónico válida para el contacto de la organización."
+
+msgid "Please enter a valid email address."
+msgstr "Por favor, introduce una dirección de correo electrónico válida."

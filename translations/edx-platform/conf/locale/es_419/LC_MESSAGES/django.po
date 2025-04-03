@@ -26915,7 +26915,6 @@ msgstr "Aún no se ha seleccionado una biblioteca. Selecciona una biblioteca."
 msgid "Drag and drop your file here or click to upload."
 msgstr "Arrastra y suelta tu archivo aquí o haz clic para subirlo."
 
-
 msgid "Powered by"
 msgstr "Con el apoyo de"
 
@@ -26994,12 +26993,8 @@ msgstr "Cantidad:"
 msgid "discount or activation code"
 msgstr "código de descuento o activación"
 
-
 msgid "Apply"
 msgstr "Aplicar"
-
-msgid "TOTAL"
-msgstr "TOTAL"
 
 msgid "Must enter a valid code"
 msgstr "Debe ingresar un código válido"
@@ -27021,3 +27016,117 @@ msgstr "Descuento aplicado:"
 
 msgid "Add to Cart"
 msgstr "añadir a la cesta"
+
+msgid "Billing Details"
+msgstr "Detalles de facturación"
+
+msgid "Discount does not exist against code '{code}'."
+msgstr "No existe descuento para el código '{code}'."
+
+msgid "You can proceed to payment at any point in time. Any additional information you provide will be included in your receipt."
+msgstr "Puede proceder al pago en cualquier momento. Cualquier información adicional que proporcione se incluirá en su recibo."
+
+msgid "Purchasing Organizational Details"
+msgstr "Detalles de la organización de compras"
+
+msgid "Purchasing organization"
+msgstr "organización de compras"
+
+msgid "Purchase order number (if any)"
+msgstr "Número de orden de compra (si lo hay)"
+
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+msgid "Additional Receipt Recipient"
+msgstr "Destinatario de recibo adicional"
+
+msgid "If no additional billing details are populated the payment confirmation will be sent to the user making the purchase."
+msgstr "Si no se completan detalles de facturación adicionales, se enviará la confirmación de pago al usuario que realice la compra."
+
+msgid "Payment processing occurs on a separate secure site."
+msgstr "El procesamiento del pago se realiza en un sitio seguro separado."
+
+msgid "{platform_name} -  Shopping Cart"
+msgstr "{platform_name} - Carrito de compras"
+
+msgid "You have successfully been enrolled for {course_names}. The following receipt has been emailed to {receipient_emails}"
+msgstr "Se ha inscrito correctamente en {course_names}. El siguiente recibo se ha enviado a {receipient_emails}."
+
+msgid "Invoice"
+msgstr "Factura"
+
+msgid "Date of purchase"
+msgstr "Fecha de compra"
+
+msgid "Billed To Details"
+msgstr "Detalles facturados a"
+
+msgid "View Dashboard"
+msgstr "Ver panel"
+
+msgid "Payment not found in processor for given payment ID"
+msgstr "Pago no encontrado en el procesador para el ID de pago indicado"
+
+msgid "The payment processor accepted an order whose number is not in our system."
+msgstr "El procesador de pagos aceptó un pedido cuyo número no está en nuestro sistema."
+
+msgid "The amount charged by the processor {charged_amount} {charged_amount_currency} is different than the total cost of the order {total_cost} {total_cost_currency}."
+msgstr "El monto cobrado por el procesador {charged_amount} {charged_amount_currency} es diferente al costo total del pedido {total_cost} {total_cost_currency}."
+
+msgid "Your payment has been canceled"
+msgstr "Su pago ha sido cancelado"
+
+msgid "Failed to create payment preference"
+msgstr "No se pudo crear la preferencia de pago"
+
+msgid "Sorry! Your payment could not be processed because an unexpected exception occurred. Please contact us at {email} for assistance."
+msgstr "¡Lo sentimos! No se pudo procesar su pago debido a una excepción inesperada. Para obtener ayuda, contáctenos en {email}."
+
+msgid "You have successfully purchased {number} course registration code for {course_names}."
+msgstr "Ha comprado con éxito el código de registro del curso {number} para {course_names}."
+
+msgid "Please send each professional one of these unique registration codes to enroll into the course. The confirmation/receipt email you will receive has an example email template with directions for the individuals enrolling."
+msgstr "Envíe a cada profesional uno de estos códigos de registro únicos para inscribirse en el curso. El correo electrónico de confirmación que recibirá incluye un ejemplo de plantilla con instrucciones para la inscripción."
+
+msgid "Print Receipt"
+msgstr "Imprimir recibo"
+
+msgid "{site_name} -  Confirm Enrollment"
+msgstr "{site_name} - Confirmar inscripción"
+
+msgid "Confirm your enrollment for:"
+msgstr "Confirma tu inscripción para:"
+
+msgid "You're about to activate an enrollment code for {course_name} by {site_name}. This code can only be used one time, so you should only activate this code if you're its intended recipient."
+msgstr "Estás a punto de activar un código de inscripción para {course_name} de {site_name}. Este código solo se puede usar una vez, así que solo debes activarlo si eres el destinatario."
+
+msgid "The course you are enrolling for is full."
+msgstr "El curso en el que te estás inscribiendo está completo."
+
+msgid "The course you are enrolling for is closed."
+msgstr "El curso en el que te estás inscribiendo está cerrado."
+
+msgid "There was an error processing your redeem code."
+msgstr "Hubo un error al procesar su código de canje."
+
+msgid "You're already enrolled for this course. Visit your {link_start}dashboard{link_end} to see the course."
+msgstr "Ya estás inscrito en este curso. Visita tu {link_start}panel de control{link_end} para ver el curso."
+
+msgid "You have successfully enrolled in {course_name}. This course has now been added to your dashboard."
+msgstr "Te has inscrito correctamente en {course_name}. Este curso ya está añadido a tu panel de control."
+
+msgid "You've clicked a link for an enrollment code that has already been used. Check your {link_start}course dashboard{link_end} to see if you're enrolled in the course, or contact your company's administrator."
+msgstr "Has hecho clic en un enlace para un código de inscripción que ya se ha usado. Consulta el {link_start}panel del curso{link_end} para ver si estás inscrito o contacta con el administrador de tu empresa."
+
+msgid "Activate Course Enrollment"
+msgstr "Activar la inscripción al curso"
+
+msgid "The following receipt has been emailed to {receipient_emails}"
+msgstr "El siguiente recibo ha sido enviado por correo electrónico a {receipient_emails}"
+
+msgid "Used"
+msgstr "Usada"
+
+msgid "There was an error processing your order!"
+msgstr "¡Hubo un error al procesar tu pedido!"
