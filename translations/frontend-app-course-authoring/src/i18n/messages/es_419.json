@@ -2092,5 +2092,6 @@
   "course-authoring.notifications.custom6": "Descartando cambios",
   "course-authoring.notifications.custom7": "Publicando",
   "course-authoring.notifications.custom8": "Ocultando a los estudiantes",
-  "course-authoring.notifications.custom9": "Haciendo visible a los estudiantes"
+  "course-authoring.notifications.custom9": "Haciendo visible a los estudiantes",
+  "course-authoring.taxonomy-list.button.download-template.hint": "Descargar ejemplo de taxonomía"
 }

@@ -2080,7 +2080,7 @@
   "authoring.problemeditor.problemtype.formulaResponse.title": "Math expression input",
   "authoring.problemeditor.problemtype.problemWithHint.title": "Problem with adaptive hint",
   "authoring.problemeditor.problemtype.status.notSupported": "Not supported",
-  "authoring.problemeditor.problemtype.status.provisional": "Provisional"
+  "authoring.problemeditor.problemtype.status.provisional": "Provisional",
   "authoring.editorfooter.cancelButton.label": "Cancel",
   "authoring.editorfooter.savebutton.label": "Save",
   "course-authoring.custom-pages.body.CustomButtonLabel1": "Content",
