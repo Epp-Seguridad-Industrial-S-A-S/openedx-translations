@@ -12369,7 +12369,6 @@ msgstr "Nombre del archivo"
 msgid "File size"
 msgstr "Tamaño del archivo"
 
-
 msgid "Access"
 msgstr "Acceso"
 
@@ -12822,3 +12821,6 @@ msgstr "Ingrese una dirección de correo electrónico válida para el contacto d
 
 msgid "Please enter a valid email address."
 msgstr "Por favor, introduce una dirección de correo electrónico válida."
+
+msgid "Course Type"
+msgstr "Tipo de curso"

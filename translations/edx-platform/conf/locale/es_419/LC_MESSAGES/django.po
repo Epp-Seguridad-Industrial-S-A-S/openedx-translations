@@ -26943,10 +26943,10 @@ msgid "About Us"
 msgstr "Acerca de nosotros"
 
 msgid "Unlock Your Potential: Discover New Courses Today!"
-msgstr "Déverrouillez votre potentiel : Découvrez de nouveaux cours dès aujourd'hui !"
+msgstr "Libera tu potencial: ¡Descubre nuevos cursos hoy!"
 
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
-msgstr "Explorez un monde de connaissances et améliorez vos compétences avec notre large gamme de cours"
+msgstr "Explora un mundo de conocimiento y mejora tus habilidades con nuestros cursos."
 
 msgid "Filters"
 msgstr "Filtros"
@@ -27130,3 +27130,64 @@ msgstr "Usada"
 
 msgid "There was an error processing your order!"
 msgstr "¡Hubo un error al procesar tu pedido!"
+
+msgid "Course Type"
+msgstr "Tipo de curso"
+
+msgid "Course team members with the Staff role help you manage your course. Staff can enroll and unenroll learners, as well as modify their grades and access all course data. Staff also have access to your course in Studio and Insights. Any users not yet enrolled in the course will be automatically enrolled when added as Staff."
+msgstr "Los miembros del equipo del curso con el rol de Personal te ayudan a gestionar tu curso. El personal puede inscribir y desinscribir a los estudiantes, así como modificar sus calificaciones y acceder a todos los datos del curso. El personal también tiene acceso a tu curso en Studio e Insights. Cualquier usuario que aún no esté inscrito en el curso será inscrito automáticamente al ser añadido como Personal."
+
+msgid "Course team members with the Limited Staff role help you manage your course. Limited Staff can enroll and unenroll learners, as well as modify their grades and access all course data. Limited Staff don't have access to your course in Studio. Any users not yet enrolled in the course will be automatically enrolled when added as Limited Staff."
+msgstr "Los miembros del equipo del curso con el rol de Personal Limitado te ayudan a gestionar tu curso. El Personal Limitado puede inscribir y desinscribir a los estudiantes, así como modificar sus calificaciones y acceder a todos los datos del curso. El Personal Limitado no tiene acceso a tu curso en Studio. Cualquier usuario que aún no esté inscrito en el curso será inscrito automáticamente al ser añadido como Personal Limitado."
+
+msgid "Course team members with the Admin role help you manage your course. They can do all of the tasks that Staff can do, and can also add and remove the Staff and Admin roles, discussion moderation roles, and the beta tester role to manage course team membership. Any users not yet enrolled in the course will be automatically enrolled when added as Admin."
+msgstr "Los miembros del equipo del curso con el rol de Administrador te ayudan a gestionar tu curso. Pueden realizar todas las tareas que puede hacer el Personal, y también pueden añadir y eliminar los roles de Personal y Administrador, roles de moderación de discusiones y el rol de probador beta para gestionar la membresía del equipo del curso. Cualquier usuario que aún no esté inscrito en el curso será inscrito automáticamente al ser añadido como Administrador."
+
+msgid "Beta Testers can see course content before other learners. They can make sure that the content works, but have no additional privileges. Any users not yet enrolled in the course will be automatically enrolled when added as Beta Tester."
+msgstr "Los Probadores Beta pueden ver el contenido del curso antes que otros estudiantes. Pueden asegurarse de que el contenido funcione, pero no tienen privilegios adicionales. Cualquier usuario que aún no esté inscrito en el curso será inscrito automáticamente al ser añadido como Probador Beta."
+
+msgid "Discussion Admins can edit or delete any post, clear misuse flags, close and re-open threads, endorse responses, and see posts from all groups. Their posts are marked as 'staff'. They can also add and remove the discussion moderation roles to manage course team membership. Any users not yet enrolled in the course will be automatically enrolled when added as Discussion Admin"
+msgstr "Los Administradores de Discusión pueden editar o eliminar cualquier publicación, borrar banderas de mal uso, cerrar y reabrir hilos, respaldar respuestas y ver publicaciones de todos los grupos. Sus publicaciones están marcadas como 'personal'. También pueden añadir y eliminar roles de moderación de discusiones para gestionar la membresía del equipo del curso. Cualquier usuario que aún no esté inscrito en el curso será inscrito automáticamente al ser añadido como Administrador de Discusión."
+
+msgid "Course Data Researchers can access the data download tab. Any users not yet enrolled in the course will be automatically enrolled when added as Course Data Researcher."
+msgstr "Los Investigadores de Datos del Curso pueden acceder a la pestaña de descarga de datos. Cualquier usuario que aún no esté inscrito en el curso será inscrito automáticamente al ser añadido como Investigador de Datos del Curso."
+
+msgid "Discussion Moderators can edit or delete any post, clear misuse flags, close and re-open threads, endorse responses, and see posts from all groups. Their posts are marked as 'staff'. They cannot manage course team membership by adding or removing discussion moderation roles. Any users not yet enrolled in the course will be automatically enrolled when added as Discussion Moderator"
+msgstr "Los Moderadores de Discusión pueden editar o eliminar cualquier publicación, borrar banderas de mal uso, cerrar y reabrir hilos, respaldar respuestas y ver publicaciones de todos los grupos. Sus publicaciones están marcadas como 'personal'. No pueden gestionar la membresía del equipo del curso añadiendo o eliminando roles de moderación de discusiones. Cualquier usuario que aún no esté inscrito en el curso será inscrito automáticamente al ser añadido como Moderador de Discusión."
+
+msgid "Group Community TAs are members of the community who help course teams moderate discussions. Group Community TAs see only posts by learners in their assigned group. They can edit or delete posts, clear flags, close and re-open threads, and endorse responses, but only for posts by learners in their group. Their posts are marked as 'Community TA'. Any users not yet enrolled in the course will be automatically enrolled when added as Group Community TA"
+msgstr "Los Asistentes de la Comunidad de Grupo son miembros de la comunidad que ayudan a los equipos del curso a moderar discusiones. Los Asistentes de la Comunidad de Grupo solo ven las publicaciones de los estudiantes en su grupo asignado. Pueden editar o eliminar publicaciones, borrar banderas, cerrar y reabrir hilos y respaldar respuestas, pero solo para las publicaciones de los estudiantes en su grupo. Sus publicaciones están marcadas como 'Asistente de la Comunidad'. Cualquier usuario que aún no esté inscrito en el curso será inscrito automáticamente al ser añadido como Asistente de la Comunidad de Grupo."
+
+msgid "Community TAs are members of the community who help course teams moderate discussions. They can see posts by learners in their assigned cohort or enrollment track, and can edit or delete posts, clear flags, close or re-open threads, and endorse responses. Their posts are marked as 'Community TA'. Any users not yet enrolled in the course will be automatically enrolled when added as Community TA"
+msgstr "Los Asistentes de la Comunidad son miembros de la comunidad que ayudan a los equipos del curso a moderar discusiones. Pueden ver las publicaciones de los estudiantes en su cohorte asignada o pista de inscripción, y pueden editar o eliminar publicaciones, borrar banderas, cerrar o reabrir hilos y respaldar respuestas. Sus publicaciones están marcadas como 'Asistente de la Comunidad'. Cualquier usuario que aún no esté inscrito en el curso será inscrito automáticamente al ser añadido como Asistente de la Comunidad."
+
+
+msgid "Choose one"
+msgstr "Elige uno"
+
+msgid "Manage Tags"
+msgstr "Administrar etiquetas"
+
+msgid "You have not selected any components yet."
+msgstr "Aún no has seleccionado ningún componente."
+
+msgid "{button_start}Add components{button_end} from a content library to this problem bank."
+msgstr "{button_start}Agregar componentes{button_end} de una biblioteca de contenido a este banco de problemas"
+
+msgid "Save tags"
+msgstr "Guardar etiquetas"
+
+msgid "Announcement"
+msgstr "Anuncio"
+
+msgid "Anonymus User ID"
+msgstr "ID de usuario anónimo"
+
+msgid "Iframe Tool"
+msgstr "Herramienta Iframe"
+
+msgid "Raw HTML"
+msgstr "HTML crudo"
+
+msgid "Zooming Image Tool"
+msgstr "Herramienta de zoom de imagen"
