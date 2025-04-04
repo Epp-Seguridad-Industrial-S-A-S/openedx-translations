@@ -507,5 +507,10 @@
   "footer.logo.altText": "Desarrollado por Open edX",
   "footer.tutorlogo.altText": "Funciona con Tutor",
   "footer.logo.ariaLabel": "Inicio de edX",
-  "footer.ariaLabel": "Pie de página"
+  "footer.ariaLabel": "Pie de página",
+  "courseOutline.loading": "Cargando...",
+  "courseOutline.toggle.button": "Alternar bandeja del esquema del curso",
+  "courseOutline.tray.title": "Esquema del curso",
+  "courseOutline.completedUnit": "Unidad completada",
+  "courseOutline.incompleteUnit": "Unidad incompleta"
 }
