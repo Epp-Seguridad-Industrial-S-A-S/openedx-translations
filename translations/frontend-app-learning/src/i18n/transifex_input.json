@@ -173,5 +173,10 @@
   "instructor.toolbar.view.as": "View this course as:",
   "instructor.toolbar.view.course": "View course in:",
   "instructor.toolbar.studio": "Studio",
-  "instructor.toolbar.insights": "Insights"
+  "instructor.toolbar.insights": "Insights",
+  "courseOutline.loading": "Loading...",
+  "courseOutline.toggle.button": "Toggle course outline tray",
+  "courseOutline.tray.title": "Course Outline",
+  "courseOutline.completedUnit": "Completed unit",
+  "courseOutline.incompleteUnit": "Incomplete unit"
 }
